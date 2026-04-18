@@ -1,0 +1,3085 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.6.1-46302893</SDKVersion>
+	<Host>Rhino</Host>
+	<Application Vendor="Robert McNeel &amp; Associates" ProductName="Rhino3D" ProductVersion="8"/>
+	<ResourcePath>D:/repos/CAD_Rhino/2_Homes</ResourcePath>
+	<User ID="676166084c8c4e97d525fb92897817d1" OS="Windows 11 (25H2) [10.0.26200.8246]"/>
+	<Geolocation/>
+	<StaticMesh name="170deedfdfac6eeada653d8bda8e2a2d" label="brep_6">
+		<file path="Home_Half_Earlier_1_Assets/170deedfdfac6eeada653d8bda8e2a2d.udsmesh"/>
+		<Size a="1020397.375" x="475.614929" y="1752.853882" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="25daabeb5dc7ed8ba90a81b3866216b9"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="bca4f25127f3c0136cff96a4277af47f" label="brep">
+		<file path="Home_Half_Earlier_1_Assets/bca4f25127f3c0136cff96a4277af47f.udsmesh"/>
+		<Size a="8379.317383" x="336.463806" y="0.0" z="228.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2554bb4c2d74e720c9aa0a2471d590c9"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="970fb65bddaaa28f9c53644868ad6677" label="brep_2">
+		<file path="Home_Half_Earlier_1_Assets/970fb65bddaaa28f9c53644868ad6677.udsmesh"/>
+		<Size a="68536.304688" x="321.223785" y="0.0" z="213.360001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bd7f19832257f6b331751297047f22e1"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="622bca95da79532f941e509d09e0727e" label="brep_3">
+		<file path="Home_Half_Earlier_1_Assets/622bca95da79532f941e509d09e0727e.udsmesh"/>
+		<Size a="8592.134766" x="137.068527" y="0.0" z="228.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="35f7210c7cc48082b8ca350f30171a1d"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c848776dea83a0bb235e93e15cc3bbe2" label="extrusion">
+		<file path="Home_Half_Earlier_1_Assets/c848776dea83a0bb235e93e15cc3bbe2.udsmesh"/>
+		<Size a="6501.353516" x="106.588531" y="10.16" z="213.360001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e8a81c38a24951e957cdb23632fcc617"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="155a50fd3aa9883b10f67b7c67f79866" label="brep_41">
+		<file path="Home_Half_Earlier_1_Assets/155a50fd3aa9883b10f67b7c67f79866.udsmesh"/>
+		<Size a="883.883606" x="25.993917" y="31.958824" z="5.08"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7462664ccc8f8ab164fea67d94b79b6d"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="872a99174e5ab107cf07568ca6cba3e3" label="extrusion_2">
+		<file path="Home_Half_Earlier_1_Assets/872a99174e5ab107cf07568ca6cba3e3.udsmesh"/>
+		<Size a="5366.110352" x="5.08" y="305.913727" z="142.853348"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b9beaa755f3edcf518f6c4eb5ddb30a5"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="a85cb097f60320eb6c3be75ce6208c9f" label="extrusion_3">
+		<file path="Home_Half_Earlier_1_Assets/a85cb097f60320eb6c3be75ce6208c9f.udsmesh"/>
+		<Size a="5366.110352" x="5.08" y="305.913727" z="142.853348"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d6eaced93a0b836dc98cff68d40766e1"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="768a1e7b215e744f51165407a5530ba1" label="brep_42">
+		<file path="Home_Half_Earlier_1_Assets/768a1e7b215e744f51165407a5530ba1.udsmesh"/>
+		<Size a="8513.738281" x="261.737427" y="153.047394" z="5.08"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e036f8f86874d0484898d1c4573957e2"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="23d19e2b64b2f46688c3bd956861a2ac" label="brep_43">
+		<file path="Home_Half_Earlier_1_Assets/23d19e2b64b2f46688c3bd956861a2ac.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c5e437acd5c47903e5d6cc8da0ddeb8b"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="52fcb68dd86a2aa1aa5c71ec8133f647" label="brep_44">
+		<file path="Home_Half_Earlier_1_Assets/52fcb68dd86a2aa1aa5c71ec8133f647.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0fda499e41b8297c8255bb68f4817fef"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="82401330732278031db34be715d1d286" label="brep_45">
+		<file path="Home_Half_Earlier_1_Assets/82401330732278031db34be715d1d286.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bf03ddf45263e510fee6b9f01f6cffe0"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="693c6c5988bae5800f37369d883aeda0" label="brep_46">
+		<file path="Home_Half_Earlier_1_Assets/693c6c5988bae5800f37369d883aeda0.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="efdae5653f207c18c797994d9ed4577d"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="39a009e785255fc5ecb20bf8911a3004" label="brep_47">
+		<file path="Home_Half_Earlier_1_Assets/39a009e785255fc5ecb20bf8911a3004.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="273b7e84f6a5211997e833e4b00e2420"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="e1a7838fadfa94ccad5f9c6aed32d3b1" label="brep_48">
+		<file path="Home_Half_Earlier_1_Assets/e1a7838fadfa94ccad5f9c6aed32d3b1.udsmesh"/>
+		<Size a="1659.109985" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0f359277a3156ef63031692d96efcf34"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="98509b67365b29e3e7206949f4b1e6eb" label="brep_49">
+		<file path="Home_Half_Earlier_1_Assets/98509b67365b29e3e7206949f4b1e6eb.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b75a0c5797de79fb475a0613acab75f5"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="cc71021d92f0a3ea2ea00810c4704a1e" label="brep_50">
+		<file path="Home_Half_Earlier_1_Assets/cc71021d92f0a3ea2ea00810c4704a1e.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eac75db847cfe37aebdc00807d581a2f"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="d211177f5a109e0c307de291cf2deddf" label="brep_51">
+		<file path="Home_Half_Earlier_1_Assets/d211177f5a109e0c307de291cf2deddf.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3e49a816377755b6c21ef88926d406ab"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="570a3f08c8a135d203c687c7421d35d8" label="brep_52">
+		<file path="Home_Half_Earlier_1_Assets/570a3f08c8a135d203c687c7421d35d8.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9ec31304b6b97e0cdb776dab5e8c7c1a"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="68fc08118dcb808852cda9c333c4dad8" label="brep_53">
+		<file path="Home_Half_Earlier_1_Assets/68fc08118dcb808852cda9c333c4dad8.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="94da365a4a7d70af7e0cda2190cf717c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="265ff8965118109033c53367b793200f" label="brep_54">
+		<file path="Home_Half_Earlier_1_Assets/265ff8965118109033c53367b793200f.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="559ac8329ef2d3568dc562317b022c03"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="28691c4e8beee80f8cabbeb3498d4148" label="brep_55">
+		<file path="Home_Half_Earlier_1_Assets/28691c4e8beee80f8cabbeb3498d4148.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eb848ff438e28918ce8cba80ac51e079"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7d7a7c2df5059141a7b2e39726ef2739" label="brep_56">
+		<file path="Home_Half_Earlier_1_Assets/7d7a7c2df5059141a7b2e39726ef2739.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="26f36f5b20645d4c30b8d5bbf5f5cc47"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7e6c230b4bedadad9bed5eebd48a173a" label="brep_57">
+		<file path="Home_Half_Earlier_1_Assets/7e6c230b4bedadad9bed5eebd48a173a.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c0cb644aeeaa05bbfc23ac14875ddd3c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="1352e23ec4795a3d0bc6a1f2ab2afbeb" label="brep_58">
+		<file path="Home_Half_Earlier_1_Assets/1352e23ec4795a3d0bc6a1f2ab2afbeb.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9dfcf4989a19fdc99ae432713482ef01"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="d2a481aec5d30444b8748173961da831" label="brep_59">
+		<file path="Home_Half_Earlier_1_Assets/d2a481aec5d30444b8748173961da831.udsmesh"/>
+		<Size a="1659.109985" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5b284817b79a39aed095d0c16846efb0"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="01ef269d7846056e42ce87917dffbd05" label="brep_60">
+		<file path="Home_Half_Earlier_1_Assets/01ef269d7846056e42ce87917dffbd05.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="de0bd7b699d594de42e81529551f1d2c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8ae35f6e2b37f54ffb5c5f2aad824ea9" label="brep_61">
+		<file path="Home_Half_Earlier_1_Assets/8ae35f6e2b37f54ffb5c5f2aad824ea9.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4b8c12ae031c53e613b771ef29fe9b1a"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="1a61e6bccb951af436233d85a81fc214" label="brep_62">
+		<file path="Home_Half_Earlier_1_Assets/1a61e6bccb951af436233d85a81fc214.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2cdf75176776d7dab1dc25ecd5b9b052"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="0df1824e143233c3c4548bac6fec4f44" label="brep_63">
+		<file path="Home_Half_Earlier_1_Assets/0df1824e143233c3c4548bac6fec4f44.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5b4283dc30b15dc4963f6d46c099a2e1"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="bcddc36ac5c621497d840b07b0656e50" label="brep_7">
+		<file path="Home_Half_Earlier_1_Assets/bcddc36ac5c621497d840b07b0656e50.udsmesh"/>
+		<Size a="192512.53125" x="293.369995" y="11.43" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56eeb82211d12e235fd32ed89f23ca38"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="6736e50dda05b5656704b47afcf4535d" label="brep_8">
+		<file path="Home_Half_Earlier_1_Assets/6736e50dda05b5656704b47afcf4535d.udsmesh"/>
+		<Size a="3353.219238" x="293.369995" y="11.43" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="171fcea43239dc7c8243d27482ffba93"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="1af4da8e160aaf386083403d471151e0" label="brep_64">
+		<file path="Home_Half_Earlier_1_Assets/1af4da8e160aaf386083403d471151e0.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6786fd021530e743bdac22d277e82e18"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="b77bb5cfb99f038706f5a222add7188f" label="brep_65">
+		<file path="Home_Half_Earlier_1_Assets/b77bb5cfb99f038706f5a222add7188f.udsmesh"/>
+		<Size a="1659.125122" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6440e5508451e5d20da29c4ead233e96"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="05ec2d81572b896d8fa9d9fcc168932b" label="brep_66">
+		<file path="Home_Half_Earlier_1_Assets/05ec2d81572b896d8fa9d9fcc168932b.udsmesh"/>
+		<Size a="1659.122559" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f98399d6e1be2e21ed7662e1c1e5c486"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="6755805568dde7fbfc4ad9c9b43482b9" label="brep_67">
+		<file path="Home_Half_Earlier_1_Assets/6755805568dde7fbfc4ad9c9b43482b9.udsmesh"/>
+		<Size a="1659.108032" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2b5a4ec78b0f242cd71a534598759412"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="b2204dee3f2f454259c7f70d28300a09" label="brep_68">
+		<file path="Home_Half_Earlier_1_Assets/b2204dee3f2f454259c7f70d28300a09.udsmesh"/>
+		<Size a="1659.108276" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1ac47dab1fe9f13fbf99fb6980566e02"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="030c6c3b1f08a2deda439a51823a2b32" label="brep_69">
+		<file path="Home_Half_Earlier_1_Assets/030c6c3b1f08a2deda439a51823a2b32.udsmesh"/>
+		<Size a="1659.109619" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4626bf8db6821ec873ea75daa8d6517e"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8c838fd934145a3141d3b0de0dbccd6c" label="brep_70">
+		<file path="Home_Half_Earlier_1_Assets/8c838fd934145a3141d3b0de0dbccd6c.udsmesh"/>
+		<Size a="1659.108032" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="802f37ef09f702343a633f15fc6d1d6c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="d90636201989cd4b609af7335538dbe2" label="brep_71">
+		<file path="Home_Half_Earlier_1_Assets/d90636201989cd4b609af7335538dbe2.udsmesh"/>
+		<Size a="1659.109863" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="370d99fdae3b8da34fed1775679d3a8a"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="aa312cc890c9d4e01ae044385b1325a8" label="brep_72">
+		<file path="Home_Half_Earlier_1_Assets/aa312cc890c9d4e01ae044385b1325a8.udsmesh"/>
+		<Size a="1659.108276" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b3f4f0dbd02a7cad05a4ef2037b07683"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="4a94e2f7a3c7f64dc3c0c130bbc56670" label="brep_73">
+		<file path="Home_Half_Earlier_1_Assets/4a94e2f7a3c7f64dc3c0c130bbc56670.udsmesh"/>
+		<Size a="1659.108276" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b59432f9cc34260e9b1baaeb14c78e8c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="85988e6364f10d4e0d1833a485132f1d" label="brep_74">
+		<file path="Home_Half_Earlier_1_Assets/85988e6364f10d4e0d1833a485132f1d.udsmesh"/>
+		<Size a="1659.118896" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="11b4738aa26f96f40c29722f6a50b8ae"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="43613255b69449d9d090fc3500300ec3" label="brep_75">
+		<file path="Home_Half_Earlier_1_Assets/43613255b69449d9d090fc3500300ec3.udsmesh"/>
+		<Size a="1659.124146" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bca2c50b852a528fa4d4a579727fbdca"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="99072f78229fbd8c4f80590b88bcd775" label="brep_76">
+		<file path="Home_Half_Earlier_1_Assets/99072f78229fbd8c4f80590b88bcd775.udsmesh"/>
+		<Size a="1659.121704" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8b309222fa76664940ec7517c8505392"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7d5f8c23ce16387c233d72cb9879a4f7" label="brep_77">
+		<file path="Home_Half_Earlier_1_Assets/7d5f8c23ce16387c233d72cb9879a4f7.udsmesh"/>
+		<Size a="1659.121338" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="88ad0370730f410e4f0a589d94cbad01"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="63ce26a166744ab2cae69985f868b88d" label="extrusion_4">
+		<file path="Home_Half_Earlier_1_Assets/63ce26a166744ab2cae69985f868b88d.udsmesh"/>
+		<Size a="5375.874512" x="5.08" y="305.931885" z="144.31543"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="df100033f2149e99aa064d273a59cd0f"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="390be041ce5da78a666bfd65d568318e" label="extrusion_5">
+		<file path="Home_Half_Earlier_1_Assets/390be041ce5da78a666bfd65d568318e.udsmesh"/>
+		<Size a="5375.884277" x="5.080039" y="305.931885" z="144.31543"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fc61971cc107e9e194ba639f564d5f73"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c2c34b6c169a23bf24c10eddbae1cba0" label="brep_78">
+		<file path="Home_Half_Earlier_1_Assets/c2c34b6c169a23bf24c10eddbae1cba0.udsmesh"/>
+		<Size a="1659.118042" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e2439b8ed3f6ae3c384275083b0860fb"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="a347490ecce9c393e753b633d8bed330" label="brep_79">
+		<file path="Home_Half_Earlier_1_Assets/a347490ecce9c393e753b633d8bed330.udsmesh"/>
+		<Size a="1659.118408" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4c3a14003421a6ea85fdb562b4bc3ca5"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="313c85e13f7f6a6b403062a6b380fadf" label="brep_80">
+		<file path="Home_Half_Earlier_1_Assets/313c85e13f7f6a6b403062a6b380fadf.udsmesh"/>
+		<Size a="1659.118164" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c827410db275641f832c5fe997949dd7"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="98ec34993622fd057ce0a7d9f8462c4e" label="brep_81">
+		<file path="Home_Half_Earlier_1_Assets/98ec34993622fd057ce0a7d9f8462c4e.udsmesh"/>
+		<Size a="1659.11792" x="5.08" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="539e0536560f504db20cdc83e6d67364"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="2b334b9bf4f698a1a9d5f013eb96fd58" label="brep_82">
+		<file path="Home_Half_Earlier_1_Assets/2b334b9bf4f698a1a9d5f013eb96fd58.udsmesh"/>
+		<Size a="1659.124023" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7cb759eb499b4de8ed5b7b789305da5d"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="112716b2d080e21760afdbe7188ce1f9" label="brep_83">
+		<file path="Home_Half_Earlier_1_Assets/112716b2d080e21760afdbe7188ce1f9.udsmesh"/>
+		<Size a="1659.12085" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c23e7a45d67e08b82bb1a2a27ff0d3fd"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="10fc8c16eef3568a2ad64384e95d2331" label="brep_84">
+		<file path="Home_Half_Earlier_1_Assets/10fc8c16eef3568a2ad64384e95d2331.udsmesh"/>
+		<Size a="1659.123047" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="00abf0cd5484b651b278c923d7bb9917"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="5283bea966f7509eacd1c603ec693c7b" label="brep_85">
+		<file path="Home_Half_Earlier_1_Assets/5283bea966f7509eacd1c603ec693c7b.udsmesh"/>
+		<Size a="1659.119141" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5c459384e8219d7f68081bc29384413a"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="fa602f2a466684f51c48ff7e3af8d0ff" label="brep_86">
+		<file path="Home_Half_Earlier_1_Assets/fa602f2a466684f51c48ff7e3af8d0ff.udsmesh"/>
+		<Size a="1659.11853" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1d951850132c232a54bdc80be8de88c9"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="67c1d11be36bca6eaeb45b36cfd44ca9" label="brep_87">
+		<file path="Home_Half_Earlier_1_Assets/67c1d11be36bca6eaeb45b36cfd44ca9.udsmesh"/>
+		<Size a="1659.117432" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="744e652461433991336cde6f0c1ae79f"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="455a528494e68ec33ad810cd65d81453" label="brep_88">
+		<file path="Home_Half_Earlier_1_Assets/455a528494e68ec33ad810cd65d81453.udsmesh"/>
+		<Size a="1659.11853" x="5.08" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="77d3c0b953825851dfed193742a9e893"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="009dd3c67559c628aaf6893548e01536" label="brep_89">
+		<file path="Home_Half_Earlier_1_Assets/009dd3c67559c628aaf6893548e01536.udsmesh"/>
+		<Size a="1659.123169" x="5.080039" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="262ec4e4a5891f8f79503cbf64c61a18"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="e553afe2114548f322e57219e4fa22b0" label="brep_90">
+		<file path="Home_Half_Earlier_1_Assets/e553afe2114548f322e57219e4fa22b0.udsmesh"/>
+		<Size a="1659.122314" x="5.080039" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="680ece7ef99c6546a7ac69843afcf885"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="1acc32bc4552b106637ee268260f13e9" label="brep_91">
+		<file path="Home_Half_Earlier_1_Assets/1acc32bc4552b106637ee268260f13e9.udsmesh"/>
+		<Size a="1659.123779" x="5.080039" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="94dca323b10aaffd24843b057a98707a"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c92831d89b7f0280b6d9165b95d8c19c" label="brep_92">
+		<file path="Home_Half_Earlier_1_Assets/c92831d89b7f0280b6d9165b95d8c19c.udsmesh"/>
+		<Size a="1659.123657" x="5.080039" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5da9e7dec3f78763d8b923df6adc4f37"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8e79282aa2dacdeb02debf7e69cf4625" label="brep_93">
+		<file path="Home_Half_Earlier_1_Assets/8e79282aa2dacdeb02debf7e69cf4625.udsmesh"/>
+		<Size a="1659.128662" x="5.080039" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c3ea20f26e850dff1e3234045c235546"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="971d46fc4043f086a4915b042e604765" label="brep_94">
+		<file path="Home_Half_Earlier_1_Assets/971d46fc4043f086a4915b042e604765.udsmesh"/>
+		<Size a="1659.125977" x="5.080039" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9ab5da9da15b8fe03c787b5c7309e9a0"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c12565f4d6ebac14da71b07de7ede53c" label="brep_95">
+		<file path="Home_Half_Earlier_1_Assets/c12565f4d6ebac14da71b07de7ede53c.udsmesh"/>
+		<Size a="1659.128296" x="5.080039" y="5.08" z="101.599991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="af71a5de422c82a5bb844866678eca43"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="0379d2cc0c31d619294a3ab0972d7070" label="brep_96">
+		<file path="Home_Half_Earlier_1_Assets/0379d2cc0c31d619294a3ab0972d7070.udsmesh"/>
+		<Size a="1659.122559" x="5.080039" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ba83d68f22be947f7689f262cad73444"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7e0733d72dcf517e386522d38114c241" label="brep_97">
+		<file path="Home_Half_Earlier_1_Assets/7e0733d72dcf517e386522d38114c241.udsmesh"/>
+		<Size a="1659.123169" x="5.080039" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="63acdde2701bf50f32033a4ca03a1376"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="f44bf65592627eb0bd7ef7a98d23f5c8" label="brep_98">
+		<file path="Home_Half_Earlier_1_Assets/f44bf65592627eb0bd7ef7a98d23f5c8.udsmesh"/>
+		<Size a="1659.123779" x="5.080039" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b6f06038f2c986a41ef19d86f8cf6b9e"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="608d5d32ecd6fb2755efd5372530495c" label="brep_99">
+		<file path="Home_Half_Earlier_1_Assets/608d5d32ecd6fb2755efd5372530495c.udsmesh"/>
+		<Size a="1659.122803" x="5.080039" y="5.08" z="101.599998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="27408bfc5fa5e701d5486aa6282345ea"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="51d3c13a1d1b59222c84d1ec0f7d4e72" label="brep_100">
+		<file path="Home_Half_Earlier_1_Assets/51d3c13a1d1b59222c84d1ec0f7d4e72.udsmesh"/>
+		<Size a="93859.507812" x="121.919998" y="305.520752" z="153.669998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="10d920103dcf5c4e4bd14d44e14caf3f"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="4d857454a6e63d7ab974f5abc99f5565" label="brep_101">
+		<file path="Home_Half_Earlier_1_Assets/4d857454a6e63d7ab974f5abc99f5565.udsmesh"/>
+		<Size a="4268.125" x="0.0" y="305.520752" z="153.669998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="95637080bdb6933e64b6a19776b998a0"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="3ec31cc55bdbe7d30f0e77d4c1574ba9" label="brep_102">
+		<file path="Home_Half_Earlier_1_Assets/3ec31cc55bdbe7d30f0e77d4c1574ba9.udsmesh"/>
+		<Size a="8996.107422" x="121.919998" y="33.019997" z="3.047992"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="940b004c8464574090ca75be4489d2f9"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="3714cd4493e4faf2fa455ee6cd2d2a78" label="brep_103">
+		<file path="Home_Half_Earlier_1_Assets/3714cd4493e4faf2fa455ee6cd2d2a78.udsmesh"/>
+		<Size a="4025.797852" x="121.919998" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6e882315d7307d7d8904a0c4b2d84081"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="accdc3f85ad8a65658d746c98ff64f47" label="brep_104">
+		<file path="Home_Half_Earlier_1_Assets/accdc3f85ad8a65658d746c98ff64f47.udsmesh"/>
+		<Size a="11690.299805" x="121.919998" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="751f51213d2d3c098293193a4b957905"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c2ec51e9138af005f9a2489e3ce1d5cd" label="brep_105">
+		<file path="Home_Half_Earlier_1_Assets/c2ec51e9138af005f9a2489e3ce1d5cd.udsmesh"/>
+		<Size a="3716.121582" x="121.919998" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4b0213b66a372bb80c71d09286255065"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="a44fea50cc44d1a882000f73caaa96bf" label="brep_106">
+		<file path="Home_Half_Earlier_1_Assets/a44fea50cc44d1a882000f73caaa96bf.udsmesh"/>
+		<Size a="8996.107422" x="121.919998" y="33.019997" z="3.047992"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ac999c9ceb01b98367f0933a5bb153cd"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="eed52609bd172a9b0b92a26291113439" label="brep_107">
+		<file path="Home_Half_Earlier_1_Assets/eed52609bd172a9b0b92a26291113439.udsmesh"/>
+		<Size a="4025.797852" x="121.919998" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="144e9b7d7435d5828cbc3b0354fe0e1a"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="002acdaf03e67da99099e01f6f1ed16d" label="brep_108">
+		<file path="Home_Half_Earlier_1_Assets/002acdaf03e67da99099e01f6f1ed16d.udsmesh"/>
+		<Size a="11690.299805" x="121.919998" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e4e540aa1d9e8ac2cc6344b5c6da0fb3"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="ba0ef3866dcb8ebd02e285af798678d7" label="brep_109">
+		<file path="Home_Half_Earlier_1_Assets/ba0ef3866dcb8ebd02e285af798678d7.udsmesh"/>
+		<Size a="3716.121582" x="121.919998" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="321e0eb5eaa495e3f00d0d1911e56195"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="0613667f0ec7350fcafbab11a2e83709" label="brep_110">
+		<file path="Home_Half_Earlier_1_Assets/0613667f0ec7350fcafbab11a2e83709.udsmesh"/>
+		<Size a="8996.108398" x="121.919998" y="33.02" z="3.047992"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0594701499422fdd8eaf22ff7f8dc158"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="777c88b6834bde909c88873420166a7b" label="brep_111">
+		<file path="Home_Half_Earlier_1_Assets/777c88b6834bde909c88873420166a7b.udsmesh"/>
+		<Size a="4025.79834" x="121.919998" y="33.02" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f46eadaf4fcbba0b04877c66780132e2"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="5289df9ab6953abe9e611f87525c3cec" label="brep_112">
+		<file path="Home_Half_Earlier_1_Assets/5289df9ab6953abe9e611f87525c3cec.udsmesh"/>
+		<Size a="11690.299805" x="121.919998" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e06418e960c627b89a8aaef791e6c21"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c57987914218a7e5934e0bdb903f094f" label="brep_113">
+		<file path="Home_Half_Earlier_1_Assets/c57987914218a7e5934e0bdb903f094f.udsmesh"/>
+		<Size a="3716.121582" x="121.919998" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7fa511121d17d92fd80227f96dd70481"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="1576ec111517041893ede0ecc8a2e527" label="brep_114">
+		<file path="Home_Half_Earlier_1_Assets/1576ec111517041893ede0ecc8a2e527.udsmesh"/>
+		<Size a="8996.107422" x="121.919998" y="33.019997" z="3.047992"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="777a2ed72cf1c69bda8dc1ce776358b2"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="2b0f6836550823a804b9360a91352334" label="brep_115">
+		<file path="Home_Half_Earlier_1_Assets/2b0f6836550823a804b9360a91352334.udsmesh"/>
+		<Size a="4025.797852" x="121.919998" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ebe2f5ede962240187334ded125fa2c4"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="74566613014739b6158c6869afa03719" label="brep_116">
+		<file path="Home_Half_Earlier_1_Assets/74566613014739b6158c6869afa03719.udsmesh"/>
+		<Size a="11690.299805" x="121.919998" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="423048c4970f2fc12f537fd9d2565884"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7cfdc5ee041cadf8a30ad9ec6e377cd6" label="brep_117">
+		<file path="Home_Half_Earlier_1_Assets/7cfdc5ee041cadf8a30ad9ec6e377cd6.udsmesh"/>
+		<Size a="3716.121582" x="121.919998" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3f7b0c6af6da742f43ad0bcd422fac28"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="e7780348c75a616f2b89b269a47669aa" label="brep_118">
+		<file path="Home_Half_Earlier_1_Assets/e7780348c75a616f2b89b269a47669aa.udsmesh"/>
+		<Size a="8996.107422" x="121.919998" y="33.019997" z="3.047992"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e978af98723b709c713f59f22c6f8e7d"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="b460fa363e46bbd8a744b8889ead5f1c" label="brep_119">
+		<file path="Home_Half_Earlier_1_Assets/b460fa363e46bbd8a744b8889ead5f1c.udsmesh"/>
+		<Size a="4025.797852" x="121.919998" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a363e3516008b660a086ec49f4942271"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="2697b31f9fe4649f734b0a0426c21760" label="brep_120">
+		<file path="Home_Half_Earlier_1_Assets/2697b31f9fe4649f734b0a0426c21760.udsmesh"/>
+		<Size a="11690.299805" x="121.919998" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ebbaf53f853d0a1e0bbf5c9f5d44f867"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="01daae50a732f0e7011d347f3cb106e3" label="brep_121">
+		<file path="Home_Half_Earlier_1_Assets/01daae50a732f0e7011d347f3cb106e3.udsmesh"/>
+		<Size a="3716.121582" x="121.919998" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5c25706ba59b2c9a5289aff48d7b2880"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="a5a55a2ce7ce87c07c9da2897e8d3d29" label="brep_122">
+		<file path="Home_Half_Earlier_1_Assets/a5a55a2ce7ce87c07c9da2897e8d3d29.udsmesh"/>
+		<Size a="8996.070312" x="121.919998" y="33.019844" z="3.047992"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5218eeb38a3866118f004cd6899b2ba7"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="13cd7ef36b0fef0f21438f16015206f5" label="brep_123">
+		<file path="Home_Half_Earlier_1_Assets/13cd7ef36b0fef0f21438f16015206f5.udsmesh"/>
+		<Size a="4025.779297" x="121.919998" y="33.019844" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ad87e38879386a125c31a6acd331ca2f"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="d7c99e94f982ffe55deda41013f2ac98" label="brep_124">
+		<file path="Home_Half_Earlier_1_Assets/d7c99e94f982ffe55deda41013f2ac98.udsmesh"/>
+		<Size a="11690.257812" x="121.919998" y="30.479845" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f12ca2bdc118e3b8ae21d5f0af4ef2bd"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="1832cc5127adb628333f63678e165fae" label="brep_125">
+		<file path="Home_Half_Earlier_1_Assets/1832cc5127adb628333f63678e165fae.udsmesh"/>
+		<Size a="3716.102539" x="121.919998" y="30.479845" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b876f1f19ae39e281efae90bdb59e9e6"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="716c79baa9f90b352bbc9c4c7a030176" label="brep_126">
+		<file path="Home_Half_Earlier_1_Assets/716c79baa9f90b352bbc9c4c7a030176.udsmesh"/>
+		<Size a="8996.107422" x="121.919998" y="33.019997" z="3.047992"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="aec3ad915b4ab65492fcb3e7ee616e6a"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="0529f04cc37618e5e5555b060a838b53" label="brep_127">
+		<file path="Home_Half_Earlier_1_Assets/0529f04cc37618e5e5555b060a838b53.udsmesh"/>
+		<Size a="4025.797852" x="121.919998" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9cdd35d9e43cfc6f70088b30ef4384bb"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7011fc683b3c7c6a8d71529f2acaaba0" label="brep_128">
+		<file path="Home_Half_Earlier_1_Assets/7011fc683b3c7c6a8d71529f2acaaba0.udsmesh"/>
+		<Size a="11690.299805" x="121.919998" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d4be3aa3ec56c81a21e2f07097e8ec41"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="bf7c5e59a1cac2aa4a7cbf00a303ac19" label="brep_129">
+		<file path="Home_Half_Earlier_1_Assets/bf7c5e59a1cac2aa4a7cbf00a303ac19.udsmesh"/>
+		<Size a="3716.121582" x="121.919998" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d489cff809f6a611ade9466394dc61a8"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="eb0238413e3ff5721937c41b806415ee" label="brep_130">
+		<file path="Home_Half_Earlier_1_Assets/eb0238413e3ff5721937c41b806415ee.udsmesh"/>
+		<Size a="8996.107422" x="121.919998" y="33.019997" z="3.047992"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a2efe1b0fde8a12e961d413c05f017e0"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8aface80279502036f94f6cd1ad861d1" label="brep_131">
+		<file path="Home_Half_Earlier_1_Assets/8aface80279502036f94f6cd1ad861d1.udsmesh"/>
+		<Size a="4025.797852" x="121.919998" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7e22187f799eb09db835318646f95542"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="b799d272593042b4c1083ed3f9cedaa5" label="brep_132">
+		<file path="Home_Half_Earlier_1_Assets/b799d272593042b4c1083ed3f9cedaa5.udsmesh"/>
+		<Size a="11690.299805" x="121.919998" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b5dc1e7de612fd8c552ce0a74bd1c4aa"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="640db836f62ac562b9f2a4c105f3db5a" label="brep_133">
+		<file path="Home_Half_Earlier_1_Assets/640db836f62ac562b9f2a4c105f3db5a.udsmesh"/>
+		<Size a="3716.121582" x="121.919998" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d42e158e7575053e17b23a278d3c404f"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="34c3fcc7d26deeaa76884f7b391b688a" label="brep_134">
+		<file path="Home_Half_Earlier_1_Assets/34c3fcc7d26deeaa76884f7b391b688a.udsmesh"/>
+		<Size a="8996.108398" x="121.919998" y="33.02" z="3.047992"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4fc2f9ab98cfcf5c1aec4eaf22345507"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8a7a3695be3910328527693cf71f95cc" label="brep_135">
+		<file path="Home_Half_Earlier_1_Assets/8a7a3695be3910328527693cf71f95cc.udsmesh"/>
+		<Size a="4025.79834" x="121.919998" y="33.02" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f8cd0dccf192c38cc734a888d0e9851d"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="bc219debc8f47bb1983cde3131b750ba" label="brep_136">
+		<file path="Home_Half_Earlier_1_Assets/bc219debc8f47bb1983cde3131b750ba.udsmesh"/>
+		<Size a="11690.299805" x="121.919998" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="af161b1b87199c787213f9addaa5cf44"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7bbfa39e86f22ac402a418f5fb59ede7" label="brep_137">
+		<file path="Home_Half_Earlier_1_Assets/7bbfa39e86f22ac402a418f5fb59ede7.udsmesh"/>
+		<Size a="3716.121582" x="121.919998" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c953d1c7b10659a98714c9d43690e525"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="d550afc7533e36769a75a66de29f07b9" label="brep_138">
+		<file path="Home_Half_Earlier_1_Assets/d550afc7533e36769a75a66de29f07b9.udsmesh"/>
+		<Size a="8996.107422" x="121.919998" y="33.019997" z="3.047992"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d35c9e96349af9b6aea6bcb270b0d6ae"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="4c216b06080175c8416fdf2036ae1b7f" label="brep_139">
+		<file path="Home_Half_Earlier_1_Assets/4c216b06080175c8416fdf2036ae1b7f.udsmesh"/>
+		<Size a="4025.797852" x="121.919998" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0e92713204b4d9b55cadf9ad9d16cd29"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7b174c0283a4d4132cb923f71126004c" label="brep_140">
+		<file path="Home_Half_Earlier_1_Assets/7b174c0283a4d4132cb923f71126004c.udsmesh"/>
+		<Size a="11690.299805" x="121.919998" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="91aea2b88a2dc1266b2100f2db4ce7ee"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="b78b8779fc126b1c6b4a1ddf23bc8f8a" label="brep_141">
+		<file path="Home_Half_Earlier_1_Assets/b78b8779fc126b1c6b4a1ddf23bc8f8a.udsmesh"/>
+		<Size a="3716.121582" x="121.919998" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="29a19f5b5f7f5398a8f87fdc5aff237f"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="661aa14b7e1387a49ae1e40948e927b5" label="brep_142">
+		<file path="Home_Half_Earlier_1_Assets/661aa14b7e1387a49ae1e40948e927b5.udsmesh"/>
+		<Size a="8996.109375" x="121.919998" y="33.019997" z="3.048002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f048e576bcddd37e41c09f4df2fe71f2"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8a0387e4430732f670743105cc0f7644" label="brep_143">
+		<file path="Home_Half_Earlier_1_Assets/8a0387e4430732f670743105cc0f7644.udsmesh"/>
+		<Size a="4025.797852" x="121.919998" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6ddcdf45871cc31a82b18e81bb2849ed"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="db99e2964fe44579847e82f44a6f3b97" label="brep_144">
+		<file path="Home_Half_Earlier_1_Assets/db99e2964fe44579847e82f44a6f3b97.udsmesh"/>
+		<Size a="11690.299805" x="121.919998" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8f4dbb66b74f37db1a8cf1e40d6b05d0"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="ddf82e12009169d10ad1d2205775517c" label="brep_145">
+		<file path="Home_Half_Earlier_1_Assets/ddf82e12009169d10ad1d2205775517c.udsmesh"/>
+		<Size a="3716.121582" x="121.919998" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="53d2526061d6cfd4a52d4dc4b320b59f"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="b7148ee8963842e48b8412813515460e" label="brep_146">
+		<file path="Home_Half_Earlier_1_Assets/b7148ee8963842e48b8412813515460e.udsmesh"/>
+		<Size a="76141.796875" x="259.080048" y="121.919998" z="17.018002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="67ec112fa058527d589b3cb43e35b5bc"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="539ca88dd7b2917b901e080878654888" label="brep_147">
+		<file path="Home_Half_Earlier_1_Assets/539ca88dd7b2917b901e080878654888.udsmesh"/>
+		<Size a="31587.039062" x="259.080048" y="121.919998" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="43d87872f65b22c320fc50a9d1f06c33"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="aadbf78d40759c8e4d63130a3735b0fb" label="brep_148">
+		<file path="Home_Half_Earlier_1_Assets/aadbf78d40759c8e4d63130a3735b0fb.udsmesh"/>
+		<Size a="93859.539062" x="121.920036" y="305.520752" z="153.669998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f3b6efd2b5b637132aa65c1eab39ab65"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="1f25a1472264889f424e5b5439a0b3a6" label="brep_149">
+		<file path="Home_Half_Earlier_1_Assets/1f25a1472264889f424e5b5439a0b3a6.udsmesh"/>
+		<Size a="4268.125" x="0.0" y="305.520752" z="153.669998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0c7c1d2fa2ae68bbc0e31bbff9c5264c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="2ee81f6857b43cbebf4a8817db8ff165" label="brep_150">
+		<file path="Home_Half_Earlier_1_Assets/2ee81f6857b43cbebf4a8817db8ff165.udsmesh"/>
+		<Size a="8996.112305" x="121.920036" y="33.019997" z="3.048002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2efd6e4b67d751bf17fa2d0a96b4ad3e"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7f999501607cdccb6737aeffa8761b52" label="brep_151">
+		<file path="Home_Half_Earlier_1_Assets/7f999501607cdccb6737aeffa8761b52.udsmesh"/>
+		<Size a="4025.799072" x="121.920036" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9fae92c79fc3e3dfd24035004bf470a1"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="ebfb0ef6f373284ee7eea7344f2e27d1" label="brep_152">
+		<file path="Home_Half_Earlier_1_Assets/ebfb0ef6f373284ee7eea7344f2e27d1.udsmesh"/>
+		<Size a="11690.301758" x="121.920036" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2820902a10729c78e09361ff8c6164a6"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="a6fe12c70007ad6011e9bf48e9089b05" label="brep_153">
+		<file path="Home_Half_Earlier_1_Assets/a6fe12c70007ad6011e9bf48e9089b05.udsmesh"/>
+		<Size a="3716.122559" x="121.920036" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="41ac1cb085e844ed34c3eb5199ef7997"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="0e320d1afab4f5f5e23736c5d4ef621a" label="brep_154">
+		<file path="Home_Half_Earlier_1_Assets/0e320d1afab4f5f5e23736c5d4ef621a.udsmesh"/>
+		<Size a="8996.112305" x="121.920036" y="33.019997" z="3.048002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="821f7b3c04d23b766fdfa6d48f8681be"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="ac886757ce7f12e9903ff31f376c3c6d" label="brep_155">
+		<file path="Home_Half_Earlier_1_Assets/ac886757ce7f12e9903ff31f376c3c6d.udsmesh"/>
+		<Size a="4025.799072" x="121.920036" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4840fc82e6ec167fce6f5becf563f256"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="725ee666404f9e9e56ae8ac1a4257ab6" label="brep_156">
+		<file path="Home_Half_Earlier_1_Assets/725ee666404f9e9e56ae8ac1a4257ab6.udsmesh"/>
+		<Size a="11690.301758" x="121.920036" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cae8ef23145e1861636e22910e7381b3"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="2974cf8571a3f2ff967d38f41ef970a4" label="brep_157">
+		<file path="Home_Half_Earlier_1_Assets/2974cf8571a3f2ff967d38f41ef970a4.udsmesh"/>
+		<Size a="3716.122559" x="121.920036" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e13db856c0721f980132dbb0c6ef2c52"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="acb08d619b9bb7b794cf3f37a44f32bb" label="brep_158">
+		<file path="Home_Half_Earlier_1_Assets/acb08d619b9bb7b794cf3f37a44f32bb.udsmesh"/>
+		<Size a="8996.115234" x="121.920036" y="33.02" z="3.048002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e8b143519d038e0348bade8a6bab1233"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="606497b0f8436ec963eac8763296c0bc" label="brep_159">
+		<file path="Home_Half_Earlier_1_Assets/606497b0f8436ec963eac8763296c0bc.udsmesh"/>
+		<Size a="4025.799561" x="121.920036" y="33.02" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8dcda0b34677ec33d33a4f4ac733512b"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="1e8d3f8d8dfb8d46aefd0f6bc90e971d" label="brep_160">
+		<file path="Home_Half_Earlier_1_Assets/1e8d3f8d8dfb8d46aefd0f6bc90e971d.udsmesh"/>
+		<Size a="11690.301758" x="121.920036" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9a0cdf5a038e6bce892db13308aca80c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="ec7436485d32a137f8a030bebc382e66" label="brep_161">
+		<file path="Home_Half_Earlier_1_Assets/ec7436485d32a137f8a030bebc382e66.udsmesh"/>
+		<Size a="3716.122559" x="121.920036" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="42647b7236c4abfd7c3fcee19cf7cc65"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7f01cf650a707c8ccd379158dd1c4278" label="brep_162">
+		<file path="Home_Half_Earlier_1_Assets/7f01cf650a707c8ccd379158dd1c4278.udsmesh"/>
+		<Size a="8996.112305" x="121.920036" y="33.019997" z="3.048002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9c1753f512920e42f61b8fd639ae9c30"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="b5b339981d52be9aa5d7a9a0569c745d" label="brep_163">
+		<file path="Home_Half_Earlier_1_Assets/b5b339981d52be9aa5d7a9a0569c745d.udsmesh"/>
+		<Size a="4025.799072" x="121.920036" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="afe2948ac6091672bb05cded65378159"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="18a8751f2edbe7f730f988f303a56f36" label="brep_164">
+		<file path="Home_Half_Earlier_1_Assets/18a8751f2edbe7f730f988f303a56f36.udsmesh"/>
+		<Size a="11690.301758" x="121.920036" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f4bee9fbd847cb43175f0dbd37f9d1b3"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7d4596203bf67eec445e6f763485f16e" label="brep_165">
+		<file path="Home_Half_Earlier_1_Assets/7d4596203bf67eec445e6f763485f16e.udsmesh"/>
+		<Size a="3716.122559" x="121.920036" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d21a0284f79f384f343ace0a40956e6e"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8f9d5cf6f319e1aa1d1d82059916e656" label="brep_166">
+		<file path="Home_Half_Earlier_1_Assets/8f9d5cf6f319e1aa1d1d82059916e656.udsmesh"/>
+		<Size a="8996.112305" x="121.920036" y="33.019997" z="3.048002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a3bbee0da739e6b2576888f43b275202"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="30479a29f5418a0809944d4927359418" label="brep_167">
+		<file path="Home_Half_Earlier_1_Assets/30479a29f5418a0809944d4927359418.udsmesh"/>
+		<Size a="4025.799072" x="121.920036" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="62e378bb971c1d22c64ca026aaf8f48e"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7d4065e6851ccec9fef0830ad51121b8" label="brep_168">
+		<file path="Home_Half_Earlier_1_Assets/7d4065e6851ccec9fef0830ad51121b8.udsmesh"/>
+		<Size a="11690.301758" x="121.920036" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3a24cb17d51d36108c8248c9a489f0f3"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="1a1d8d6bf05707d39d94b2cac1f09be1" label="brep_169">
+		<file path="Home_Half_Earlier_1_Assets/1a1d8d6bf05707d39d94b2cac1f09be1.udsmesh"/>
+		<Size a="3716.122559" x="121.920036" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c53278c6e7a9652301ef1ce3fee76080"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="6c316d3ca66cf15a0d355a02b1df192f" label="brep_170">
+		<file path="Home_Half_Earlier_1_Assets/6c316d3ca66cf15a0d355a02b1df192f.udsmesh"/>
+		<Size a="8996.075195" x="121.920036" y="33.019844" z="3.048002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="501bb25cdfb169e7b280b7152c11f585"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="a65d5f3ac85c8e07f1b5902c3e8e00d3" label="brep_171">
+		<file path="Home_Half_Earlier_1_Assets/a65d5f3ac85c8e07f1b5902c3e8e00d3.udsmesh"/>
+		<Size a="4025.780518" x="121.920036" y="33.019844" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f042ce00438a2db12d0f0900ff49ea9c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="3013ae40404992073c95ca27ef3b7b74" label="brep_172">
+		<file path="Home_Half_Earlier_1_Assets/3013ae40404992073c95ca27ef3b7b74.udsmesh"/>
+		<Size a="11690.260742" x="121.920036" y="30.479845" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8a3acbb932459e24f3563af0c55999db"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="0e48fd365748420bf6f8641591edc4fa" label="brep_173">
+		<file path="Home_Half_Earlier_1_Assets/0e48fd365748420bf6f8641591edc4fa.udsmesh"/>
+		<Size a="3716.10376" x="121.920036" y="30.479845" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="93b367ea4187b6ea1b5f06f082d9604d"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="31b97db9ca7e5fb91d36d8e7f21c35f4" label="brep_174">
+		<file path="Home_Half_Earlier_1_Assets/31b97db9ca7e5fb91d36d8e7f21c35f4.udsmesh"/>
+		<Size a="8996.112305" x="121.920036" y="33.019997" z="3.048002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="46889bb5451f850c18a9c8d01a283a11"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8e3485c2e80fd25831723411758a421a" label="brep_175">
+		<file path="Home_Half_Earlier_1_Assets/8e3485c2e80fd25831723411758a421a.udsmesh"/>
+		<Size a="4025.799072" x="121.920036" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d2e38e3166e1627ff8bbb4284e59abed"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="924b6b37fa70ebec425c8287dc56c978" label="brep_176">
+		<file path="Home_Half_Earlier_1_Assets/924b6b37fa70ebec425c8287dc56c978.udsmesh"/>
+		<Size a="11690.301758" x="121.920036" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="71b61128a8d0ae43e1e5555149b98dd1"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="e897dddad321c0f0b6166fa7140bc5f5" label="brep_177">
+		<file path="Home_Half_Earlier_1_Assets/e897dddad321c0f0b6166fa7140bc5f5.udsmesh"/>
+		<Size a="3716.122559" x="121.920036" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7bc9fea373dc2dfc8afb183155494c82"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="739f912f7a678389ef33e229c9d1898d" label="brep_178">
+		<file path="Home_Half_Earlier_1_Assets/739f912f7a678389ef33e229c9d1898d.udsmesh"/>
+		<Size a="8996.112305" x="121.920036" y="33.019997" z="3.048002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c607e4cda610f2a63b32102281c72e34"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8217a0810f0f0f88a32942aa3f9909ac" label="brep_179">
+		<file path="Home_Half_Earlier_1_Assets/8217a0810f0f0f88a32942aa3f9909ac.udsmesh"/>
+		<Size a="4025.799072" x="121.920036" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e13d65c04ac8bc4bde0feba3e6346ba9"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="f10087e25b045bb2325cb38bdad7417a" label="brep_180">
+		<file path="Home_Half_Earlier_1_Assets/f10087e25b045bb2325cb38bdad7417a.udsmesh"/>
+		<Size a="11690.301758" x="121.920036" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6dd018bcb122f032a9e3ecc8632752c3"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c7c23d43857a2a3700143837440d0e1d" label="brep_181">
+		<file path="Home_Half_Earlier_1_Assets/c7c23d43857a2a3700143837440d0e1d.udsmesh"/>
+		<Size a="3716.122559" x="121.920036" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="049e47cedfdd21b10ab15cf73f8fc089"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="e9015d7f6da845155c0773d423d615a4" label="brep_182">
+		<file path="Home_Half_Earlier_1_Assets/e9015d7f6da845155c0773d423d615a4.udsmesh"/>
+		<Size a="8996.115234" x="121.920036" y="33.02" z="3.048002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4da768557ec601756d913bb12a3628a3"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="bccfec07a0fb3b1b66019f3e13407b40" label="brep_183">
+		<file path="Home_Half_Earlier_1_Assets/bccfec07a0fb3b1b66019f3e13407b40.udsmesh"/>
+		<Size a="4025.799561" x="121.920036" y="33.02" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9e623a90d6ed0993c628c4f54776a606"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="9a2e728601c3a11c7634de3158e5e1fc" label="brep_184">
+		<file path="Home_Half_Earlier_1_Assets/9a2e728601c3a11c7634de3158e5e1fc.udsmesh"/>
+		<Size a="11690.301758" x="121.920036" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="915ed37934e26437fa436b1712b4fc72"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="0d2dbca3db3f4d054d2fb9a2b7f4b69e" label="brep_185">
+		<file path="Home_Half_Earlier_1_Assets/0d2dbca3db3f4d054d2fb9a2b7f4b69e.udsmesh"/>
+		<Size a="3716.122559" x="121.920036" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5c4ad017304b0114810fdfa562d59420"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="40c4df20c131055ca079b584ff799bba" label="brep_186">
+		<file path="Home_Half_Earlier_1_Assets/40c4df20c131055ca079b584ff799bba.udsmesh"/>
+		<Size a="8996.111328" x="121.920036" y="33.019997" z="3.047999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b0f966962ba4c9f1e04803236a3acd0e"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="d25273977a49318a02ae2ee717bced3d" label="brep_187">
+		<file path="Home_Half_Earlier_1_Assets/d25273977a49318a02ae2ee717bced3d.udsmesh"/>
+		<Size a="4025.799072" x="121.920036" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="adafb7f447876bb11470961acfc94b41"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="047dfd87ed348c209706b7758466a2b2" label="brep_188">
+		<file path="Home_Half_Earlier_1_Assets/047dfd87ed348c209706b7758466a2b2.udsmesh"/>
+		<Size a="11690.301758" x="121.920036" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9c4aa5b80fa5ab0252cf1099f0707eef"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c849c78d614437a2dfbf67832778f7f4" label="brep_189">
+		<file path="Home_Half_Earlier_1_Assets/c849c78d614437a2dfbf67832778f7f4.udsmesh"/>
+		<Size a="3716.122559" x="121.920036" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56d23ab46f9198e30eff7e96aef747a3"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="9b0ad15b8591e1ffe0609f7d73e08d97" label="brep_190">
+		<file path="Home_Half_Earlier_1_Assets/9b0ad15b8591e1ffe0609f7d73e08d97.udsmesh"/>
+		<Size a="8996.111328" x="121.920036" y="33.019997" z="3.047999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4f2a98611f4fc97fa8985ca9cbfb7ed2"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="591c1ad8b1913825f38edeab0e120fba" label="brep_191">
+		<file path="Home_Half_Earlier_1_Assets/591c1ad8b1913825f38edeab0e120fba.udsmesh"/>
+		<Size a="4025.799072" x="121.920036" y="33.019997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5b95c790a5bc3678b05eb49e9de8b6b7"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="dfb117cd55d0b3a17e88062682195de1" label="brep_192">
+		<file path="Home_Half_Earlier_1_Assets/dfb117cd55d0b3a17e88062682195de1.udsmesh"/>
+		<Size a="11690.301758" x="121.920036" y="30.48" z="13.969999"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8ff38800a9b0bfb85be56c0940a2a63c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="7ec7702401c72a4d34edae389a89c80c" label="brep_193">
+		<file path="Home_Half_Earlier_1_Assets/7ec7702401c72a4d34edae389a89c80c.udsmesh"/>
+		<Size a="3716.122559" x="121.920036" y="30.48" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a91027ff48fbd1c3e79fa7704367860e"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="355331a7f752a65c6c3cd03b5c5aada9" label="brep_36">
+		<file path="Home_Half_Earlier_1_Assets/355331a7f752a65c6c3cd03b5c5aada9.udsmesh"/>
+		<Size a="448960.84375" x="1171.059814" y="182.880005" z="7.62"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="826993a38c9f310a9e242027dc55046b"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="188e91cde9c10f231d209e8e0f28adaf" label="brep_37">
+		<file path="Home_Half_Earlier_1_Assets/188e91cde9c10f231d209e8e0f28adaf.udsmesh"/>
+		<Size a="214163.421875" x="1171.059814" y="182.880005" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="98e102dea858c0e47b99657bc4403817"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="24abcf946e852062b292f5ccb52122b1" label="brep_35">
+		<file path="Home_Half_Earlier_1_Assets/24abcf946e852062b292f5ccb52122b1.udsmesh"/>
+		<Size a="4840126.5" x="1359.279541" y="2362.199951" z="12.7"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="83718c532e6cb3872181efe37e02de51"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="dca7c5c4fb6fe4cc5d5b0b74b311e58e" label="brep_39">
+		<file path="Home_Half_Earlier_1_Assets/dca7c5c4fb6fe4cc5d5b0b74b311e58e.udsmesh"/>
+		<Size a="47040.148438" x="45.720001" y="45.720001" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0fb8680b261665dffe7bf179dc1f4eca"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="4bd8d47ca6c0f421d0d2e5f9cf840f4b" label="brep_40">
+		<file path="Home_Half_Earlier_1_Assets/4bd8d47ca6c0f421d0d2e5f9cf840f4b.udsmesh"/>
+		<Size a="47040.125" x="45.720001" y="45.720001" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="adb72de8eca95808b2face33bd7c9a76"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c9b6836637196078f23c53d224dc19bc" label="brep_9">
+		<file path="Home_Half_Earlier_1_Assets/c9b6836637196078f23c53d224dc19bc.udsmesh"/>
+		<Size a="1640.202271" x="45.720001" y="45.720001" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c43107a21925736b376751d01af8a264"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="240a9f5b84b3a43b8bb9efde59df4e6d" label="brep_10">
+		<file path="Home_Half_Earlier_1_Assets/240a9f5b84b3a43b8bb9efde59df4e6d.udsmesh"/>
+		<Size a="1640.202026" x="45.720001" y="45.720001" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a81d6a3103134a0e8831502c56f8336c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="12f228eb54bf8babec9e32499e8acbf9" label="brep_11">
+		<file path="Home_Half_Earlier_1_Assets/12f228eb54bf8babec9e32499e8acbf9.udsmesh"/>
+		<Size a="5427.40918" x="427.355072" y="0.0" z="12.7"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cd877173a6d3eeac37e4164d66854291"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="24edb70cb85eec819cbeeca99a995987" label="brep_4">
+		<file path="Home_Half_Earlier_1_Assets/24edb70cb85eec819cbeeca99a995987.udsmesh"/>
+		<Size a="8426306.0" x="1524.0" y="2743.199951" z="7.62"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e78d40ed29aea131a28d2e80e7738774"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="4274c4f86caf6e336c37bed95ccdbc19" label="brep_38">
+		<file path="Home_Half_Earlier_1_Assets/4274c4f86caf6e336c37bed95ccdbc19.udsmesh"/>
+		<Size a="3691367.75" x="1524.0" y="2743.199951" z="213.360001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ecc81bd46b222aa22ebe00eccfc2b439"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="739c982887022929c05238bf483ec3fe" label="brep_12">
+		<file path="Home_Half_Earlier_1_Assets/739c982887022929c05238bf483ec3fe.udsmesh"/>
+		<Size a="1355934.25" x="724.535095" y="1752.853882" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="895e5c385a97965c1c85096b5e087f50"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="b6782d4774d34b244d65c8a3693da718" label="brep_13">
+		<file path="Home_Half_Earlier_1_Assets/b6782d4774d34b244d65c8a3693da718.udsmesh"/>
+		<Size a="40983.398438" x="724.535095" y="1752.853882" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f92140c8c5ea2cd132f7ac9e5b8b7e95"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="e66ce06215b38925d69d4bdc8b434986" label="brep_14">
+		<file path="Home_Half_Earlier_1_Assets/e66ce06215b38925d69d4bdc8b434986.udsmesh"/>
+		<Size a="33846.503906" x="475.614929" y="1752.853882" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f1fed59907e71ab2da7815366136e079"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8634d6dc825d64c549e31ee7a15caae3" label="brep_15">
+		<file path="Home_Half_Earlier_1_Assets/8634d6dc825d64c549e31ee7a15caae3.udsmesh"/>
+		<Size a="585795.5625" x="460.374908" y="609.599976" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="70c4c8fc074129733d9593df8018b518"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="e864754d23f0ac21e7188cd672cd6291" label="brep_16">
+		<file path="Home_Half_Earlier_1_Assets/e864754d23f0ac21e7188cd672cd6291.udsmesh"/>
+		<Size a="222220.75" x="194.309998" y="194.309998" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="171bf546d572bd352edf11f9b478b0a8"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="fda5e9231b95fcb9c2456eef8cb706d5" label="brep_17">
+		<file path="Home_Half_Earlier_1_Assets/fda5e9231b95fcb9c2456eef8cb706d5.udsmesh"/>
+		<Size a="436383.3125" x="412.115082" y="354.292175" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="09ffccf2066991e1092126f7651a12cb"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="d25433e9704df002f47d70ebc1d3dac3" label="brep_18">
+		<file path="Home_Half_Earlier_1_Assets/d25433e9704df002f47d70ebc1d3dac3.udsmesh"/>
+		<Size a="4311.282227" x="194.309998" y="194.309998" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d4f4f3b8d0760964626bd2270bc6d243"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="39ac6eebc93da823eb84701b89d82a0f" label="brep_19">
+		<file path="Home_Half_Earlier_1_Assets/39ac6eebc93da823eb84701b89d82a0f.udsmesh"/>
+		<Size a="207762.734375" x="182.880005" y="182.880005" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cd9f473ef14b9791166b7cd3e9fb5824"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="382c60205109f5161504fe62fab6858e" label="brep_20">
+		<file path="Home_Half_Earlier_1_Assets/382c60205109f5161504fe62fab6858e.udsmesh"/>
+		<Size a="144720.703125" x="217.805069" y="11.43" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3a9a8195a9fe61b77603461db31a3869"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="11c7dadd5d694cd69024b561d725f5a4" label="brep_21">
+		<file path="Home_Half_Earlier_1_Assets/11c7dadd5d694cd69024b561d725f5a4.udsmesh"/>
+		<Size a="2489.511963" x="217.805069" y="11.43" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ab0d200aa375a48f4ee696d616d0fd06"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8f697d4bef6ecfa31777982216884b6e" label="brep_22">
+		<file path="Home_Half_Earlier_1_Assets/8f697d4bef6ecfa31777982216884b6e.udsmesh"/>
+		<Size a="4049.991943" x="182.880005" y="182.880005" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eb63593212af7233537f8fa8257929ae"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="bc697456b963c2b70cacb94e2b7e8b00" label="brep_23">
+		<file path="Home_Half_Earlier_1_Assets/bc697456b963c2b70cacb94e2b7e8b00.udsmesh"/>
+		<Size a="742634.25" x="412.115082" y="480.059998" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="46e59362ccbec50e0048ebaadcec48f3"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="e908807c477e9f02a3d7ec42982a0233" label="brep_24">
+		<file path="Home_Half_Earlier_1_Assets/e908807c477e9f02a3d7ec42982a0233.udsmesh"/>
+		<Size a="8629.389648" x="412.115082" y="354.292175" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1203176951fecb924ce2a18db4735f5b"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="d7dd78c09e4c6f54faee1997f5734d57" label="brep_25">
+		<file path="Home_Half_Earlier_1_Assets/d7dd78c09e4c6f54faee1997f5734d57.udsmesh"/>
+		<Size a="14646.750977" x="412.115082" y="480.059998" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="478d8067d0cc047a1da5fdf5ca6aa94e"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="d878b21e9345e1716d864d5af10763c5" label="brep_26">
+		<file path="Home_Half_Earlier_1_Assets/d878b21e9345e1716d864d5af10763c5.udsmesh"/>
+		<Size a="447449.0" x="460.374908" y="365.76001" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="306037e41fe8ec555f89c87ed9e5b12b"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="6d054db0679d9607c112d9299c8b811b" label="brep_27">
+		<file path="Home_Half_Earlier_1_Assets/6d054db0679d9607c112d9299c8b811b.udsmesh"/>
+		<Size a="264802.6875" x="224.789993" y="194.309998" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7eb5d46839c6145df8fcc3419aa69985"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="adff09467e8ead3c8479fee2ef7dadf2" label="brep_28">
+		<file path="Home_Half_Earlier_1_Assets/adff09467e8ead3c8479fee2ef7dadf2.udsmesh"/>
+		<Size a="4659.667969" x="224.789993" y="194.309998" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4ae73096fd427f4c6ed53c5d0e94df2c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="b4773ab81c309c07062f3f71597349e3" label="brep_29">
+		<file path="Home_Half_Earlier_1_Assets/b4773ab81c309c07062f3f71597349e3.udsmesh"/>
+		<Size a="12099.160156" x="460.374908" y="609.599976" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="060b3c1b7e08d9448b5daf03aed9d4ec"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="89c732423aea7e97624850ae5ae481c4" label="brep_30">
+		<file path="Home_Half_Earlier_1_Assets/89c732423aea7e97624850ae5ae481c4.udsmesh"/>
+		<Size a="9312.079102" x="460.374908" y="365.76001" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c91c5b4d7de101f430ca651f24e8e39c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="4064305396383df0a727ca8d73acb4b4" label="brep_31">
+		<file path="Home_Half_Earlier_1_Assets/4064305396383df0a727ca8d73acb4b4.udsmesh"/>
+		<Size a="487837.6875" x="400.685059" y="457.199951" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4c3ec4b666018416c166402435589a3a"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="27c0bd3f57bfdf3e33edfe892cb073b5" label="brep_32">
+		<file path="Home_Half_Earlier_1_Assets/27c0bd3f57bfdf3e33edfe892cb073b5.udsmesh"/>
+		<Size a="710417.6875" x="460.374908" y="762.0" z="304.799988"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="42d2f376faea1ff40881f619e6e5a8e0"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="04909d803cb8eb2a93448ece039c1f9d" label="brep_33">
+		<file path="Home_Half_Earlier_1_Assets/04909d803cb8eb2a93448ece039c1f9d.udsmesh"/>
+		<Size a="9674.980469" x="400.685059" y="457.199951" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="244ce5e26f89943cc950eed2e7e09ddd"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="e763799d0e85f1ac0671334197d77811" label="brep_34">
+		<file path="Home_Half_Earlier_1_Assets/e763799d0e85f1ac0671334197d77811.udsmesh"/>
+		<Size a="18396.726562" x="460.374908" y="762.0" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7b24f0353a0aa4af9df55f93dbf0460f"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="2c21c2596b4ea7b2f7e60bd5e8a321c7" label="brep_5">
+		<file path="Home_Half_Earlier_1_Assets/2c21c2596b4ea7b2f7e60bd5e8a321c7.udsmesh"/>
+		<Size a="4180636.75" x="1524.0" y="2743.199951" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6d68c7b4a9c449530f6e25c86596f184"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<Actor name="d012c66b40d53f8aa79525744efcb72c" label="Default" layer="Default" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Rhino.ID: 0ce408d0-9744-4e29-83b4-f8e8e173a8c1" />
+		<tag value="Rhino.Entity.Type: layer" />
+		<children visible="true">
+			<ActorMesh name="48022c54526c9bd7dd977217c04d5882" label="brep" layer="Default" mobility="Static">
+				<mesh name="bca4f25127f3c0136cff96a4277af47f"/>
+				<Transform tx="362.796648" ty="-628.522983" tz="15.24" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: ecfd708e-95ac-4a98-acc5-14bad586fecb" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="2cd50d5d44005c706a4ef37e9cc8e68e" label="brep_2" layer="Default" mobility="Static">
+				<mesh name="970fb65bddaaa28f9c53644868ad6677"/>
+				<Transform tx="362.796648" ty="-628.522983" tz="22.86" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 01c6532a-07a0-4dd1-a98a-3f0814078d30" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="333629d039ef9e170570376043cd7f59" label="brep_3" layer="Default" mobility="Static">
+				<mesh name="622bca95da79532f941e509d09e0727e"/>
+				<Transform tx="791.723678" ty="-628.888503" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: f9ff95a7-e0ab-4645-bc20-5e676286e5ea" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="dcf0c2e5bb77d92a68ea75c5cb0d7bf7" label="GF_Main_Slab" layer="GF_Main_Slab" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Rhino.ID: 25cf68b0-d5b3-4fe7-8d5c-9438bdebad33" />
+		<tag value="Rhino.Entity.Type: layer" />
+		<children visible="true">
+			<ActorMesh name="c35c7891a4357c4525af0f0d1f50b70b" label="brep_4" layer="GF_Main_Slab" mobility="Static">
+				<mesh name="24edb70cb85eec819cbeeca99a995987"/>
+				<Transform tx="761.999989" ty="-1371.599979" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 93013c5a-09d1-4cac-b847-357221f8388f" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="8292a4995245f06aeb36607f9e0975eb" label="brep_5" layer="GF_Main_Slab" mobility="Static">
+				<mesh name="2c21c2596b4ea7b2f7e60bd5e8a321c7"/>
+				<Transform tx="761.999989" ty="-1371.599979" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 63b90def-1679-4459-839b-d769c17ed52b" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="41ea3638af9132f515dcf5d170982e6a" label="GF_Inner_Main" layer="GF_Inner_Main" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Rhino.ID: 27c668a2-adab-4c8f-8c3e-b1c36b0b540c" />
+		<tag value="Rhino.Entity.Type: layer" />
+		<children visible="true">
+			<ActorMesh name="55a0b2fcdd3ec7257171fed19e02a5e5" label="brep_6" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="170deedfdfac6eeada653d8bda8e2a2d"/>
+				<Transform tx="401.637455" ty="-1497.203009" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: d0563e77-5d6e-47c3-94b1-8939a9c59b6f" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="3a61c7fa0322954089b9f9e1acc6515e" label="extrusion" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="c848776dea83a0bb235e93e15cc3bbe2"/>
+				<Transform tx="791.723678" ty="-628.888503" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b133a988-061e-4880-b22b-26650067237b" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="575b394524b0f7c3316c1fef22bb411b" label="brep_7" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="bcddc36ac5c621497d840b07b0656e50"/>
+				<Transform tx="786.129911" ty="-2367.914964" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 12d677ff-0616-460d-aa25-84506ea55230" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="4d7a37ca436ef9e7c8b4d8c6ccd8e478" label="brep_8" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="6736e50dda05b5656704b47afcf4535d"/>
+				<Transform tx="786.129911" ty="-2367.914964" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: a8c95faa-c6af-46e6-a064-dce534616d65" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="1e607d688cd499dbdd15426a411ae72f" label="brep_9" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="c9b6836637196078f23c53d224dc19bc"/>
+				<Transform tx="971.592463" ty="-39.193513" tz="7.62" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 11b60b7e-5be9-45e9-b020-bc3cbccf13b2" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="06015c8e1cf3fa565a089229240e646e" label="brep_10" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="240a9f5b84b3a43b8bb9efde59df4e6d"/>
+				<Transform tx="1478.190991" ty="-39.193513" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 44edf609-26c6-4369-87d0-6a4a4c900f36" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="92c25b4b4fdcaf12834d40ea515ab5b3" label="brep_11" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="12f228eb54bf8babec9e32499e8acbf9"/>
+				<Transform tx="1150.302483" ty="-613.155975" tz="304.799995" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: c35e1a9f-1d9e-4554-876c-97d2d9bd5e2e" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="b87f4c3737964f1a6f016ba63b486b3b" label="brep_12" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="739c982887022929c05238bf483ec3fe"/>
+				<Transform tx="1001.712485" ty="-1497.203009" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 90f93554-3e66-42b4-b58a-4405c8a477e0" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="cebf13d3f7149df3020fcea33c285b4f" label="brep_13" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="b6782d4774d34b244d65c8a3693da718"/>
+				<Transform tx="1001.712485" ty="-1497.203009" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: c61d463d-ff3d-4728-8afe-84d87aaf19c8" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="a7f716313e6253642abeca3f1d8c8b10" label="brep_14" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="e66ce06215b38925d69d4bdc8b434986"/>
+				<Transform tx="401.637455" ty="-1497.203009" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: fcb1e082-4c7a-4381-82df-03b7afe1dfdf" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="1e04b4ce5fe90292488ab7fc0da134a5" label="brep_15" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="8634d6dc825d64c549e31ee7a15caae3"/>
+				<Transform tx="409.257455" ty="-2068.829969" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: c263a8c0-e7bf-43c9-b51a-4b205bbb115a" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="30df2753b1d4abe5de58950848341a96" label="brep_16" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="e864754d23f0ac21e7188cd672cd6291"/>
+				<Transform tx="530.859915" ty="-2265.044966" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: a0e94b49-fa7c-44ee-8376-b959f39c4be5" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="3d2713ae89147678627c486f94851aa8" label="brep_17" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="fda5e9231b95fcb9c2456eef8cb706d5"/>
+				<Transform tx="1138.872483" ty="-2196.483881" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: c7854cd0-57ab-443a-a528-fe11cce36b25" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="0e909195965450c2e70a406c001eb76c" label="brep_18" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="d25433e9704df002f47d70ebc1d3dac3"/>
+				<Transform tx="530.859915" ty="-2265.044966" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: c1418455-a265-4353-8917-be3d2ce1e8dc" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="8b05f674a73d8590e82064e7ea017298" label="brep_19" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="39ac6eebc93da823eb84701b89d82a0f"/>
+				<Transform tx="1035.684907" ty="-2110.777795" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: cd08c126-381b-4a39-814a-9185bc7e4212" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="7ddf19f48d1f24579399f18fdaf96fc2" label="brep_20" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="382c60205109f5161504fe62fab6858e"/>
+				<Transform tx="1236.027481" ty="-2196.502794" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 7ab88be7-379e-4700-b1af-bc4570ba370e" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="07eb1c6bd483bb9efb292eca82e3085c" label="brep_21" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="11c7dadd5d694cd69024b561d725f5a4"/>
+				<Transform tx="1236.027481" ty="-2196.502794" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b93d691b-a707-4620-acab-9c42ad5305d1" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="1a4e5d63beb3d0b6e65c33c446344e34" label="brep_22" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="8f697d4bef6ecfa31777982216884b6e"/>
+				<Transform tx="1035.684907" ty="-2110.777795" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 0262485d-a6fb-4629-bb0b-791fe1b3aa5d" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="154134ebaf90afd09708a9c40bc09c70" label="brep_23" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="bc697456b963c2b70cacb94e2b7e8b00"/>
+				<Transform tx="1138.872483" ty="-1779.3078" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 2cea8908-e68b-4ec3-b94f-883263f1e090" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="aa9a79bbe0a6cb38d6f6aeb4e44e2ef0" label="brep_24" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="e908807c477e9f02a3d7ec42982a0233"/>
+				<Transform tx="1138.872483" ty="-2196.483881" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 4ed0d0ba-d6c8-4827-a651-65e7c4458b28" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="633e7478c095183688c9e1f1fbfb0ee1" label="brep_25" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="d7dd78c09e4c6f54faee1997f5734d57"/>
+				<Transform tx="1138.872483" ty="-1779.3078" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 13a9e8a2-96b1-46aa-8b87-a431b15d7be1" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="223da8b73712013aa07a7c00dba74b51" label="brep_26" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="d878b21e9345e1716d864d5af10763c5"/>
+				<Transform tx="409.257455" ty="-1581.149976" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: dad95555-34ab-4ab6-aa92-66ae0fe155ae" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="d271810ba062ab3a175e0a7b7be695d9" label="brep_27" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="6d054db0679d9607c112d9299c8b811b"/>
+				<Transform tx="291.464996" ty="-1861.184972" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: dc528b5e-7a16-4e97-9861-e4ccbdcf91f7" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="dad4e6ea98e22e45707037d58b36e7ee" label="brep_28" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="adff09467e8ead3c8479fee2ef7dadf2"/>
+				<Transform tx="291.464996" ty="-1861.184972" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 839639ee-04ac-401c-93e3-c408fd4533b8" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="763becf151413af8386d942f47becb0e" label="brep_29" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="b4773ab81c309c07062f3f71597349e3"/>
+				<Transform tx="409.257455" ty="-2068.829969" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 8bdd8bc1-5fa5-437d-801b-32bf4f4d2b7e" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="add283cd3da500be1362b91dc5b339b9" label="brep_30" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="89c732423aea7e97624850ae5ae481c4"/>
+				<Transform tx="409.257455" ty="-1581.149976" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 307f37d4-1410-4df1-a187-af949c91f7d5" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="292b3f544d5857094165c90fc174dbb2" label="brep_31" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="4064305396383df0a727ca8d73acb4b4"/>
+				<Transform tx="1144.587483" ty="-864.907737" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: f51f3526-cfc7-4f21-b3f9-8ea53ec1ec8d" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="336da44282d61ba1eac7ef463789ce76" label="brep_32" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="27c0bd3f57bfdf3e33edfe892cb073b5"/>
+				<Transform tx="409.257455" ty="-1017.269985" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 0b226425-2755-48ca-82db-fc992789d488" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="97144b8e274f00fcd047181bdf8c791e" label="brep_33" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="04909d803cb8eb2a93448ece039c1f9d"/>
+				<Transform tx="1144.587483" ty="-864.907737" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 9856dc98-93a2-4a2e-8b62-55d28a379efd" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="66a407e0435bcf75c9d65bc15fe9aa60" label="brep_34" layer="GF_Inner_Main" mobility="Static">
+				<mesh name="e763799d0e85f1ac0671334197d77811"/>
+				<Transform tx="409.257455" ty="-1017.269985" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 125c3b99-64e9-43cb-88f5-0e413816ae66" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="e51394f2a38d7a9d47a152fd0f18609d" label="First_Slab" layer="First_Slab" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Rhino.ID: c2a79346-ac76-4527-b2f4-7f81c1644029" />
+		<tag value="Rhino.Entity.Type: layer" />
+		<children visible="true">
+			<ActorMesh name="c283ae5d9bb8333315d296c249871f65" label="brep_35" layer="First_Slab" mobility="Static">
+				<mesh name="24abcf946e852062b292f5ccb52122b1"/>
+				<Transform tx="843.469743" ty="-1192.529982" tz="304.799995" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: ef5f0cd3-ccff-430f-91bb-d5689cf5c25e" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="cca724c87b65ed20d751bce48c3f5571" label="Boundary_Main" layer="Boundary_Main" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Rhino.ID: b2ef708f-e6f0-4fdb-917b-8b2c2a8bf5a4" />
+		<tag value="Rhino.Entity.Type: layer" />
+		<children visible="true">
+			<ActorMesh name="098b08e168f2ae005b77120d62f3f8d2" label="brep_36" layer="Boundary_Main" mobility="Static">
+				<mesh name="355331a7f752a65c6c3cd03b5c5aada9"/>
+				<Transform tx="585.52991" ty="91.439999" tz="-7.62" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 8e04b125-4a9f-4220-b00f-c7427e77e4b3" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="50b667f7485f9a5f35d0e5e1ad96866a" label="brep_37" layer="Boundary_Main" mobility="Static">
+				<mesh name="188e91cde9c10f231d209e8e0f28adaf"/>
+				<Transform tx="585.52991" ty="91.439999" tz="-7.62" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b48560fb-ce3b-4ff4-a9c0-6fc0ab229882" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="8ef3db20d72cc22d5eddcfd5dcdde64b" label="brep_38" layer="Boundary_Main" mobility="Static">
+				<mesh name="4274c4f86caf6e336c37bed95ccdbc19"/>
+				<Transform tx="761.999989" ty="-1371.599979" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 9c20333d-bb02-41c7-aab2-8355096b5733" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="7e315b0864e733d39e0f6e3568b8468c" label="Columns" layer="Columns" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Rhino.ID: a4bd5f70-4d8d-4b6f-adba-df91c5f1ef88" />
+		<tag value="Rhino.Entity.Type: layer" />
+		<children visible="true">
+			<ActorMesh name="1fbc59b1f9c97415a20a52f70ea3da9c" label="brep_39" layer="Columns" mobility="Static">
+				<mesh name="dca7c5c4fb6fe4cc5d5b0b74b311e58e"/>
+				<Transform tx="971.592463" ty="-39.193513" tz="7.62" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: a3cb0c57-92cf-4b53-9be4-4650a549e4a7" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="4170d68243daef43c8363d575e5047d4" label="brep_40" layer="Columns" mobility="Static">
+				<mesh name="4bd8d47ca6c0f421d0d2e5f9cf840f4b"/>
+				<Transform tx="1478.190991" ty="-39.193513" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: e51273cd-30ce-4bd4-b7c9-af51b1d7ce20" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="a60f2b59c40cc8e69dfd920cc6acaebf" label="Stairs_GF" layer="Stairs_GF" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Rhino.ID: d2b40c5f-8192-4fc0-8776-9374c0088fd7" />
+		<tag value="Rhino.Entity.Type: layer" />
+		<children visible="true">
+			<ActorMesh name="78da9ff4deb1b9e5b4b7fda933b690de" label="brep_41" layer="Stairs_GF" mobility="Static">
+				<mesh name="155a50fd3aa9883b10f67b7c67f79866"/>
+				<Transform tx="776.918535" ty="-2220.319015" tz="256.539996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: edc0a3b0-b38b-425f-b019-265579a74b78" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="64ef45b64046c139dea2db512f9b9f06" label="extrusion_2" layer="Stairs_GF" mobility="Static">
+				<mesh name="872a99174e5ab107cf07568ca6cba3e3"/>
+				<Transform tx="789.915494" ty="-2078.845637" tz="257.476586" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: cad84768-9ea6-487b-8a09-17da95b7f939" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="be89bbe728af55544acc7a61fca99f65" label="extrusion_3" layer="Stairs_GF" mobility="Static">
+				<mesh name="a85cb097f60320eb6c3be75ce6208c9f"/>
+				<Transform tx="909.295492" ty="-2078.845637" tz="257.476586" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 6d411244-1bb3-4858-80da-dee3449eab8b" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="fcafb39a1066d9c626b2a497a8a3db9e" label="brep_42" layer="Stairs_GF" mobility="Static">
+				<mesh name="768a1e7b215e744f51165407a5530ba1"/>
+				<Transform tx="780.966815" ty="-2281.694802" tz="256.728822" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 5dc9598b-3048-42ea-b28c-934eb30faf7e" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="bf42270124863160dde72736c5b75276" label="brep_43" layer="Stairs_GF" mobility="Static">
+				<mesh name="23d19e2b64b2f46688c3bd956861a2ac"/>
+				<Transform tx="789.915571" ty="-2231.218504" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 33392693-d63d-4a5e-b018-e7076b7da6bd" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="a08604fef77d4584f8e1178958bc92d7" label="brep_44" layer="Stairs_GF" mobility="Static">
+				<mesh name="52fcb68dd86a2aa1aa5c71ec8133f647"/>
+				<Transform tx="789.915571" ty="-2200.738505" tz="170.68799" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 7d3d5c59-c615-42c0-bdcd-74b93f491e80" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="dfb3c3d2d7346bfa1087271b113eaa0f" label="brep_45" layer="Stairs_GF" mobility="Static">
+				<mesh name="82401330732278031db34be715d1d286"/>
+				<Transform tx="789.915571" ty="-2170.258505" tz="184.657989" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 2928f661-f024-42ed-8fc8-e537f1b90bd8" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="b3d2c63e90c227545ce86d79318731be" label="brep_46" layer="Stairs_GF" mobility="Static">
+				<mesh name="693c6c5988bae5800f37369d883aeda0"/>
+				<Transform tx="789.915571" ty="-2139.778505" tz="198.627989" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 181f5604-8ca0-4edc-87ef-78818b07ee22" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="d2a2d47562e24fe078f24b40dc4f4ac0" label="brep_47" layer="Stairs_GF" mobility="Static">
+				<mesh name="39a009e785255fc5ecb20bf8911a3004"/>
+				<Transform tx="789.915571" ty="-2109.010306" tz="212.597989" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: c5c6ce3e-569e-47a5-9063-ba0f7f0f9889" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="9f642d078aeba8556d728b8fcad21ad3" label="brep_48" layer="Stairs_GF" mobility="Static">
+				<mesh name="e1a7838fadfa94ccad5f9c6aed32d3b1"/>
+				<Transform tx="789.915571" ty="-2078.241952" tz="226.567989" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 779518cb-023c-4879-829f-9a8efdf6d89f" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="2f91e162d7abd3603b77bce5666723bc" label="brep_49" layer="Stairs_GF" mobility="Static">
+				<mesh name="98509b67365b29e3e7206949f4b1e6eb"/>
+				<Transform tx="789.915571" ty="-2047.473753" tz="240.537989" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 6d085d8c-f57f-4033-9362-32f51529f9e0" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="40c7b3212026225e5ef3e8cb060c07c9" label="brep_50" layer="Stairs_GF" mobility="Static">
+				<mesh name="cc71021d92f0a3ea2ea00810c4704a1e"/>
+				<Transform tx="789.915571" ty="-2016.705399" tz="254.507988" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b37e634e-c24a-4371-8738-236777f68771" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="14161bb90107a87392ad89e0c9973cb1" label="brep_51" layer="Stairs_GF" mobility="Static">
+				<mesh name="d211177f5a109e0c307de291cf2deddf"/>
+				<Transform tx="789.915571" ty="-1985.9372" tz="268.477988" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 627bae6d-2444-4e6f-b117-c754a4640e84" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="2b367491fb5d9ead8dc6d6b0355aa842" label="brep_52" layer="Stairs_GF" mobility="Static">
+				<mesh name="570a3f08c8a135d203c687c7421d35d8"/>
+				<Transform tx="789.915571" ty="-1955.168846" tz="282.447988" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: db5d3183-a6af-4841-a72a-055859b556d3" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="4524b19f96abe4f8894ef046904f8b16" label="brep_53" layer="Stairs_GF" mobility="Static">
+				<mesh name="68fc08118dcb808852cda9c333c4dad8"/>
+				<Transform tx="789.915571" ty="-1924.400647" tz="296.417988" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 3ea6ce73-7e4a-4a6b-b20a-e60fbad44082" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="faaabb1a462eb2355104006215c51620" label="brep_54" layer="Stairs_GF" mobility="Static">
+				<mesh name="265ff8965118109033c53367b793200f"/>
+				<Transform tx="909.295569" ty="-1924.400647" tz="296.417988" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 7a47c0da-79eb-44f7-a06e-07a46c7ecbaf" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="de245acf7f067c1a014a719cc060c772" label="brep_55" layer="Stairs_GF" mobility="Static">
+				<mesh name="28691c4e8beee80f8cabbeb3498d4148"/>
+				<Transform tx="909.295569" ty="-1955.168846" tz="282.447988" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b889730b-f52a-4931-92f8-ff973fb8fe0b" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="1b9167ae3c7c0dca54633e188087e476" label="brep_56" layer="Stairs_GF" mobility="Static">
+				<mesh name="7d7a7c2df5059141a7b2e39726ef2739"/>
+				<Transform tx="909.295569" ty="-1985.9372" tz="268.477988" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 77d69982-7766-48cc-b26b-f65111d2289f" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="316cfeee5f9ac9fd97d350c9bbdae7fd" label="brep_57" layer="Stairs_GF" mobility="Static">
+				<mesh name="7e6c230b4bedadad9bed5eebd48a173a"/>
+				<Transform tx="909.295569" ty="-2016.705399" tz="254.507988" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 2336509e-efac-48ce-bcb0-754ed9d58d52" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="d53d509b215e5dab570a4f4993f6e83d" label="brep_58" layer="Stairs_GF" mobility="Static">
+				<mesh name="1352e23ec4795a3d0bc6a1f2ab2afbeb"/>
+				<Transform tx="909.295569" ty="-2047.473753" tz="240.537989" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: bb1e143e-3ad6-426d-b8a7-7d44739165be" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="831f08aec02884a6abe08cdf54d7f15d" label="brep_59" layer="Stairs_GF" mobility="Static">
+				<mesh name="d2a481aec5d30444b8748173961da831"/>
+				<Transform tx="909.295569" ty="-2078.241952" tz="226.567989" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: edc60b10-8fd9-449f-af5a-951f1121af03" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="339777b1895597ac5564162c57b4f52a" label="brep_60" layer="Stairs_GF" mobility="Static">
+				<mesh name="01ef269d7846056e42ce87917dffbd05"/>
+				<Transform tx="909.295569" ty="-2109.010306" tz="212.597989" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 22a88c6c-86be-4013-b8fe-29a49f8ec0ee" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="a02cf6dcf01f1e06237bf570820b62d3" label="brep_61" layer="Stairs_GF" mobility="Static">
+				<mesh name="8ae35f6e2b37f54ffb5c5f2aad824ea9"/>
+				<Transform tx="909.295569" ty="-2139.778505" tz="198.627989" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 63538664-f235-4a97-bb42-06d9506e4cab" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="0fab2046e050c1c73246871d1d2694da" label="brep_62" layer="Stairs_GF" mobility="Static">
+				<mesh name="1a61e6bccb951af436233d85a81fc214"/>
+				<Transform tx="909.295569" ty="-2170.258505" tz="184.657989" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 8da338c4-101e-4ea4-b794-df191df83af0" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="6b63afc27e4e1a5d6e4a2d1b28ee091f" label="brep_63" layer="Stairs_GF" mobility="Static">
+				<mesh name="0df1824e143233c3c4548bac6fec4f44"/>
+				<Transform tx="909.295569" ty="-2200.738505" tz="170.68799" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: fec1dc76-d4c5-4266-9685-9f91682dcaec" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="a75f091c402cb909317eae8a30ffdb4d" label="brep_64" layer="Stairs_GF" mobility="Static">
+				<mesh name="1af4da8e160aaf386083403d471151e0"/>
+				<Transform tx="909.295569" ty="-2231.218504" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 0cc2d1b9-4848-457e-bb4f-fbba237330fa" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="16b3d1da25fb330563a06b04bde8f101" label="brep_65" layer="Stairs_GF" mobility="Static">
+				<mesh name="b77bb5cfb99f038706f5a222add7188f"/>
+				<Transform tx="909.295569" ty="-2273.232993" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: e655b28e-d2b3-4d82-b2e5-4ccdbc1b9805" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="65979ae276dc6f0291b27ee9ad22e43e" label="brep_66" layer="Stairs_GF" mobility="Static">
+				<mesh name="05ec2d81572b896d8fa9d9fcc168932b"/>
+				<Transform tx="909.295569" ty="-2315.247637" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: d4a68adf-1989-4b94-94c9-fb6eee498cb0" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="5d29693f487e07bb0f66e5e7920c15f4" label="brep_67" layer="Stairs_GF" mobility="Static">
+				<mesh name="6755805568dde7fbfc4ad9c9b43482b9"/>
+				<Transform tx="907.711945" ty="-2355.678502" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: cc68e5b9-6fc2-4198-a3dd-935e8552a486" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="b2659d047772100d8c88bed5e151041b" label="brep_68" layer="Stairs_GF" mobility="Static">
+				<mesh name="b2204dee3f2f454259c7f70d28300a09"/>
+				<Transform tx="865.697456" ty="-2355.678502" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 286d5cbb-c730-4d07-aed1-c1a6499e73e0" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="0f09f2953e243e44de348a15def11ff8" label="brep_69" layer="Stairs_GF" mobility="Static">
+				<mesh name="030c6c3b1f08a2deda439a51823a2b32"/>
+				<Transform tx="823.682889" ty="-2355.678502" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 1c0dbc38-1aa5-494d-962e-9953bf3cac75" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="79b1687b1e97417710c808fbd237ea75" label="brep_70" layer="Stairs_GF" mobility="Static">
+				<mesh name="8c838fd934145a3141d3b0de0dbccd6c"/>
+				<Transform tx="781.6684" ty="-2355.678502" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 27684042-9947-4bc5-89d5-d237b6609040" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="61873388b53fe3c8b3c8aae59d6ba8be" label="brep_71" layer="Stairs_GF" mobility="Static">
+				<mesh name="d90636201989cd4b609af7335538dbe2"/>
+				<Transform tx="739.653833" ty="-2355.678502" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: e192c964-0559-40d9-ac4d-9f83afa1b16f" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="f3b88a4f40246e960728cb4f192f07c3" label="brep_72" layer="Stairs_GF" mobility="Static">
+				<mesh name="aa312cc890c9d4e01ae044385b1325a8"/>
+				<Transform tx="697.639344" ty="-2355.678502" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: f2ae9c68-39b2-45ef-9602-010cd956c766" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="aa8e6bd17c630d534076d3f6e48ed0ff" label="brep_73" layer="Stairs_GF" mobility="Static">
+				<mesh name="4a94e2f7a3c7f64dc3c0c130bbc56670"/>
+				<Transform tx="655.624778" ty="-2355.678502" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: d9088a8b-86b7-4bdd-b9c6-fea0542b91eb" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="e4b588f045e07961ebd191840946a399" label="brep_74" layer="Stairs_GF" mobility="Static">
+				<mesh name="85988e6364f10d4e0d1833a485132f1d"/>
+				<Transform tx="652.638061" ty="-2316.650652" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 6df2ed48-08d2-4978-8b24-e3d565d26589" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="9861a52a620df9b7517bee57a97a2809" label="brep_75" layer="Stairs_GF" mobility="Static">
+				<mesh name="43613255b69449d9d090fc3500300ec3"/>
+				<Transform tx="652.638061" ty="-2274.636163" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: f7a10937-fa53-4a77-81e9-2ce685cd22bd" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="1d87a3fb0adca08946683ed8bd7339b6" label="brep_76" layer="Stairs_GF" mobility="Static">
+				<mesh name="99072f78229fbd8c4f80590b88bcd775"/>
+				<Transform tx="652.638061" ty="-2232.621519" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 6eb830b7-1faa-4b70-a53b-16568e33ca35" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="2770f359a1e48ede9bcf36fe6b7eaea1" label="brep_77" layer="Stairs_GF" mobility="Static">
+				<mesh name="7d5f8c23ce16387c233d72cb9879a4f7"/>
+				<Transform tx="767.038983" ty="-2232.621519" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 6b2831f7-8209-4672-bc84-b61498e26f83" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="365a652fcbb3662df4375798338d493a" label="extrusion_4" layer="Stairs_GF" mobility="Static">
+				<mesh name="63ce26a166744ab2cae69985f868b88d"/>
+				<Transform tx="766.461577" ty="-2051.373825" tz="116.310283" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: ef4c0265-dbe0-4ec8-8e23-16a2a6b6218f" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="9cc4176b1808368008047a68fd9d48ce" label="extrusion_5" layer="Stairs_GF" mobility="Static">
+				<mesh name="390be041ce5da78a666bfd65d568318e"/>
+				<Transform tx="652.280873" ty="-2051.373825" tz="116.310283" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 61e35b02-006c-4ef7-aeee-e53a12eaccf3" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="2cb4762a90f70e3b4eddc370c4843585" label="brep_78" layer="Stairs_GF" mobility="Static">
+				<mesh name="c2c34b6c169a23bf24c10eddbae1cba0"/>
+				<Transform tx="767.038983" ty="-1897.757778" tz="17.017999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 46b1ab7d-c48e-448b-bc96-29be21cbbcb8" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="7e46aa2195a001537e8c226000fe1814" label="brep_79" layer="Stairs_GF" mobility="Static">
+				<mesh name="a347490ecce9c393e753b633d8bed330"/>
+				<Transform tx="767.038983" ty="-1928.309866" tz="30.987999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: ae7ef977-03cf-4c48-90ce-026ddc275110" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="b8740e4af943c2b63df4ada278157e76" label="brep_80" layer="Stairs_GF" mobility="Static">
+				<mesh name="313c85e13f7f6a6b403062a6b380fadf"/>
+				<Transform tx="767.038983" ty="-1958.861954" tz="44.958001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 4452b573-9c21-47ba-b9e6-1f38a73f6c87" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="b7dc79961fdcbb94b6bf0fba66a08a90" label="brep_81" layer="Stairs_GF" mobility="Static">
+				<mesh name="98ec34993622fd057ce0a7d9f8462c4e"/>
+				<Transform tx="767.038983" ty="-1989.414042" tz="58.928001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 4d10ac78-f9cd-4d8d-8d11-1deb94c26fa1" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="12236162acddab491fe5ed1750833b86" label="brep_82" layer="Stairs_GF" mobility="Static">
+				<mesh name="2b334b9bf4f698a1a9d5f013eb96fd58"/>
+				<Transform tx="767.038983" ty="-2019.966131" tz="72.898001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 6cc53985-2408-457b-a2bf-922d04af929e" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="5afd3b1834b463cf0f18e7eaf7087124" label="brep_83" layer="Stairs_GF" mobility="Static">
+				<mesh name="112716b2d080e21760afdbe7188ce1f9"/>
+				<Transform tx="767.038983" ty="-2050.518219" tz="86.868001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: c0c00ade-40e7-4598-b7c8-1557324ec4fa" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="2751bde51ed3820d4046fcfcbe39f33d" label="brep_84" layer="Stairs_GF" mobility="Static">
+				<mesh name="10fc8c16eef3568a2ad64384e95d2331"/>
+				<Transform tx="767.038983" ty="-2081.070152" tz="100.838" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 0f32f61d-de2a-4b5c-8f34-430c56b777cc" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="f849569e5d63e4f8b903c43ea501b9d2" label="brep_85" layer="Stairs_GF" mobility="Static">
+				<mesh name="5283bea966f7509eacd1c603ec693c7b"/>
+				<Transform tx="767.038983" ty="-2111.62224" tz="114.808" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: de1427f7-38db-424e-8b77-8069a992d5f7" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="100f42e648b88dec9a8065440d57512a" label="brep_86" layer="Stairs_GF" mobility="Static">
+				<mesh name="fa602f2a466684f51c48ff7e3af8d0ff"/>
+				<Transform tx="767.038983" ty="-2142.174328" tz="128.778" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: dd9ef3ca-1ddb-479e-9990-37b95059b37f" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="7162e2da46a60488d83316708781af9a" label="brep_87" layer="Stairs_GF" mobility="Static">
+				<mesh name="67c1d11be36bca6eaeb45b36cfd44ca9"/>
+				<Transform tx="767.038983" ty="-2172.726416" tz="142.748" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: bb31fc08-771d-4c4e-bd3f-96c25bae3411" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="914c8f3f2119601fe81c5b4be65fa2ef" label="brep_88" layer="Stairs_GF" mobility="Static">
+				<mesh name="455a528494e68ec33ad810cd65d81453"/>
+				<Transform tx="767.038983" ty="-2203.278505" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 7630aa8d-b693-4088-9418-edbc77bff1e0" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="c5621bb6ccbaa683e0d14572dc2ff199" label="brep_89" layer="Stairs_GF" mobility="Static">
+				<mesh name="009dd3c67559c628aaf6893548e01536"/>
+				<Transform tx="652.092668" ty="-2203.278505" tz="156.718" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 7390eca7-0f43-45c5-9e44-b4910076b15b" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="8d308c0fe0cd10f4aa104f0357e063b9" label="brep_90" layer="Stairs_GF" mobility="Static">
+				<mesh name="e553afe2114548f322e57219e4fa22b0"/>
+				<Transform tx="652.092668" ty="-2172.726416" tz="142.748" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 13763e85-f8f4-43d4-a0e9-60bed8c4cbc5" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="2a3f665a57eb28c00b753cf06dd11736" label="brep_91" layer="Stairs_GF" mobility="Static">
+				<mesh name="1acc32bc4552b106637ee268260f13e9"/>
+				<Transform tx="652.092668" ty="-2142.174328" tz="128.778" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 5d047704-598f-4a58-88fa-a67c068f6079" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="542efa1c179edca61f6d45adcf11b169" label="brep_92" layer="Stairs_GF" mobility="Static">
+				<mesh name="c92831d89b7f0280b6d9165b95d8c19c"/>
+				<Transform tx="652.092668" ty="-2111.62224" tz="114.808" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 2824c12b-4287-409f-bc45-434ec2a91edc" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="57ab99e3c524da55bbe4ae1c811690de" label="brep_93" layer="Stairs_GF" mobility="Static">
+				<mesh name="8e79282aa2dacdeb02debf7e69cf4625"/>
+				<Transform tx="652.092668" ty="-2081.070152" tz="100.838" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: a2af2e6b-7a69-4df6-8c49-b8f30b6790d5" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="2ecde01e843f3ab39073bad267282c85" label="brep_94" layer="Stairs_GF" mobility="Static">
+				<mesh name="971d46fc4043f086a4915b042e604765"/>
+				<Transform tx="652.092668" ty="-2050.518219" tz="86.868001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 717ea0ac-cdad-4926-9105-6fc981e15b8f" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="21218b2a7b5fc1e641eb0424c1a45fe2" label="brep_95" layer="Stairs_GF" mobility="Static">
+				<mesh name="c12565f4d6ebac14da71b07de7ede53c"/>
+				<Transform tx="652.092668" ty="-2019.966131" tz="72.898001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 79530cea-0241-4c5c-888f-f8b8b49937b4" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="af19c44c5c540b721ac9b7c7f122696e" label="brep_96" layer="Stairs_GF" mobility="Static">
+				<mesh name="0379d2cc0c31d619294a3ab0972d7070"/>
+				<Transform tx="652.092668" ty="-1989.414042" tz="58.928001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 72ae434a-1fa2-4562-b655-7ca4e48cd7b4" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="4e69983b3df5bc00ed8af683d6697978" label="brep_97" layer="Stairs_GF" mobility="Static">
+				<mesh name="7e0733d72dcf517e386522d38114c241"/>
+				<Transform tx="652.092668" ty="-1958.861954" tz="44.958001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: a111b023-32c5-4784-9ceb-9b2b62dde948" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="4763cf4e2272b4e0c76196477bca5cb5" label="brep_98" layer="Stairs_GF" mobility="Static">
+				<mesh name="f44bf65592627eb0bd7ef7a98d23f5c8"/>
+				<Transform tx="652.092668" ty="-1928.309866" tz="30.987999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 513c5a58-1e5a-46b4-9e5e-c39b1260c6d0" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="6b82baa4c544ffcb82b640070d32b057" label="brep_99" layer="Stairs_GF" mobility="Static">
+				<mesh name="608d5d32ecd6fb2755efd5372530495c"/>
+				<Transform tx="652.092668" ty="-1897.757778" tz="17.017999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: a60e78cb-aebf-4419-9f9f-6bad762fae13" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group49" />
+			</ActorMesh>
+			<ActorMesh name="8c3be440bed7a36d3b8acb11a0ec4b9a" label="brep_100" layer="Stairs_GF" mobility="Static">
+				<mesh name="51d3c13a1d1b59222c84d1ec0f7d4e72"/>
+				<Transform tx="848.33557" ty="-2047.978219" tz="139.699998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: d695f92e-147c-4830-9adb-1984650a1e82" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="1ba52f0bcdbb4d31e5914acf4e823198" label="brep_101" layer="Stairs_GF" mobility="Static">
+				<mesh name="4d857454a6e63d7ab974f5abc99f5565"/>
+				<Transform tx="787.375571" ty="-2047.978219" tz="139.699998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 4bd28e71-60f0-488b-a52c-7c7f7486adff" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="3d10e76cba802d809000754c3d1716c9" label="brep_102" layer="Stairs_GF" mobility="Static">
+				<mesh name="3ec31cc55bdbe7d30f0e77d4c1574ba9"/>
+				<Transform tx="848.33557" ty="-1911.727778" tz="293.369996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 801edfab-c8b9-43f6-818b-8367738ecec7" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group48" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="4e6ed65d85bca38494cf45ee8d2be6bb" label="brep_103" layer="Stairs_GF" mobility="Static">
+				<mesh name="3714cd4493e4faf2fa455ee6cd2d2a78"/>
+				<Transform tx="848.33557" ty="-1911.727778" tz="293.369996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 0f046217-b52e-47c4-9c17-6cbbce68f008" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group48" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="f1e3ddc34cd52404d201089e3d3112ca" label="brep_104" layer="Stairs_GF" mobility="Static">
+				<mesh name="accdc3f85ad8a65658d746c98ff64f47"/>
+				<Transform tx="848.33557" ty="-1910.457778" tz="279.399996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 1f074164-b7de-48bb-a8b7-0f5048b04f9a" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group48" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="ef5f9d5b41fe32c586c3b5252d83e8cd" label="brep_105" layer="Stairs_GF" mobility="Static">
+				<mesh name="c2ec51e9138af005f9a2489e3ce1d5cd"/>
+				<Transform tx="848.33557" ty="-1910.457778" tz="279.399996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b40daf87-0ad0-44c4-a000-c13d3e277e1f" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group48" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="d6e79f80bc2d70d6d37f77b1b2b33269" label="brep_106" layer="Stairs_GF" mobility="Static">
+				<mesh name="a44fea50cc44d1a882000f73caaa96bf"/>
+				<Transform tx="848.33557" ty="-1942.279866" tz="279.399996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 2acd991a-3be0-448b-b1ba-f4079d4e2b00" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group47" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="caf8526b4d8dc24fb304efc6f03f7ff2" label="brep_107" layer="Stairs_GF" mobility="Static">
+				<mesh name="eed52609bd172a9b0b92a26291113439"/>
+				<Transform tx="848.33557" ty="-1942.279866" tz="279.399996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: c43d3f03-3fe8-4b28-b197-24fcf57b9aa5" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group47" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="eff489444b4f3b5252b02ae6967a83c5" label="brep_108" layer="Stairs_GF" mobility="Static">
+				<mesh name="002acdaf03e67da99099e01f6f1ed16d"/>
+				<Transform tx="848.33557" ty="-1941.009866" tz="265.429996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 2753b1fa-cab6-4929-9020-26d22a4e543f" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group47" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="700d98013f4c2145c5c07c48f838b259" label="brep_109" layer="Stairs_GF" mobility="Static">
+				<mesh name="ba0ef3866dcb8ebd02e285af798678d7"/>
+				<Transform tx="848.33557" ty="-1941.009866" tz="265.429996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 724932e1-341c-41ff-8695-cec40a1269e0" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group47" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="f67b48146310f1e6e8e669c0b2044af4" label="brep_110" layer="Stairs_GF" mobility="Static">
+				<mesh name="0613667f0ec7350fcafbab11a2e83709"/>
+				<Transform tx="848.33557" ty="-1972.831954" tz="265.429996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 4591be9e-15b4-4522-bbc1-f22c367b9a83" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group46" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="eac99cd7e7ec5fb72ebbc00ecd3632b5" label="brep_111" layer="Stairs_GF" mobility="Static">
+				<mesh name="777c88b6834bde909c88873420166a7b"/>
+				<Transform tx="848.33557" ty="-1972.831954" tz="265.429996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 1882f1e1-e12d-407a-805c-ce47cca71389" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group46" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="366186ab9d81a25d2699d1045500b339" label="brep_112" layer="Stairs_GF" mobility="Static">
+				<mesh name="5289df9ab6953abe9e611f87525c3cec"/>
+				<Transform tx="848.33557" ty="-1971.561954" tz="251.459996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: dae4eff3-b82f-44aa-9e7d-152584e625e5" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group46" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="b7eb034c591fa7248f0b4e66dfcf4a7b" label="brep_113" layer="Stairs_GF" mobility="Static">
+				<mesh name="c57987914218a7e5934e0bdb903f094f"/>
+				<Transform tx="848.33557" ty="-1971.561954" tz="251.459996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 8958f4f7-a70d-4a46-917e-911e1ba4f100" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group46" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="e35adbbbc00f0b0235e262d472aea0ee" label="brep_114" layer="Stairs_GF" mobility="Static">
+				<mesh name="1576ec111517041893ede0ecc8a2e527"/>
+				<Transform tx="848.33557" ty="-2003.384042" tz="251.459996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 328cf69e-760f-400e-9983-727f8936721f" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group45" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="4bfadccee567c672f3d92f4edff8f616" label="brep_115" layer="Stairs_GF" mobility="Static">
+				<mesh name="2b0f6836550823a804b9360a91352334"/>
+				<Transform tx="848.33557" ty="-2003.384042" tz="251.459996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 9778037e-2546-40b4-84e6-bf2f49d8ce77" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group45" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="95bcf0d9685dbdba0a433da789186803" label="brep_116" layer="Stairs_GF" mobility="Static">
+				<mesh name="74566613014739b6158c6869afa03719"/>
+				<Transform tx="848.33557" ty="-2002.114042" tz="237.489996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: d4830b15-a77d-4851-8378-3d23574c4f88" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group45" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="d27ea3e308da7486012688e5fa9f3013" label="brep_117" layer="Stairs_GF" mobility="Static">
+				<mesh name="7cfdc5ee041cadf8a30ad9ec6e377cd6"/>
+				<Transform tx="848.33557" ty="-2002.114042" tz="237.489996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 9cef236d-5883-4d8f-b143-f3f5b3e75855" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group45" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="154150ad90c5b40f69934f9f8213ddac" label="brep_118" layer="Stairs_GF" mobility="Static">
+				<mesh name="e7780348c75a616f2b89b269a47669aa"/>
+				<Transform tx="848.33557" ty="-2033.93613" tz="237.489996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: ed72f1e4-8b71-4b5f-b560-e645e325f715" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group44" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="2437f79bb68040513df98fd1265cb005" label="brep_119" layer="Stairs_GF" mobility="Static">
+				<mesh name="b460fa363e46bbd8a744b8889ead5f1c"/>
+				<Transform tx="848.33557" ty="-2033.93613" tz="237.489996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: cacc369b-f712-4f7f-a951-0f81bf198e9a" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group44" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="fca864189b1340c9c1a214ead4031640" label="brep_120" layer="Stairs_GF" mobility="Static">
+				<mesh name="2697b31f9fe4649f734b0a0426c21760"/>
+				<Transform tx="848.33557" ty="-2032.66613" tz="223.519997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 643379b0-6b42-4df2-b196-828fd46ef84a" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group44" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="25cdae2249f69a8a993b2a1f365673bf" label="brep_121" layer="Stairs_GF" mobility="Static">
+				<mesh name="01daae50a732f0e7011d347f3cb106e3"/>
+				<Transform tx="848.33557" ty="-2032.66613" tz="223.519997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 1f4ab567-0ffc-4666-9466-b1861ac4af5b" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group44" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="09d9449a6c11bca30522a9b87b7a9fa7" label="brep_122" layer="Stairs_GF" mobility="Static">
+				<mesh name="a5a55a2ce7ce87c07c9da2897e8d3d29"/>
+				<Transform tx="848.33557" ty="-2064.488219" tz="223.519997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 0c042116-79f1-4c6d-9b4e-fecbe454957a" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group43" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="1e57f1dd7de09d09c5fe7d320df2be7e" label="brep_123" layer="Stairs_GF" mobility="Static">
+				<mesh name="13cd7ef36b0fef0f21438f16015206f5"/>
+				<Transform tx="848.33557" ty="-2064.488219" tz="223.519997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 6e3dd933-c5da-4d91-b0b7-2048fb9743e9" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group43" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="c90770c9e3a591bc20fa051a328b364e" label="brep_124" layer="Stairs_GF" mobility="Static">
+				<mesh name="d7c99e94f982ffe55deda41013f2ac98"/>
+				<Transform tx="848.33557" ty="-2063.218219" tz="209.549997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: ae4dd0b6-9e22-4428-8658-9d7f717c15f0" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group43" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="1c0ef8b6f86d03400dec1208fbd8cc2a" label="brep_125" layer="Stairs_GF" mobility="Static">
+				<mesh name="1832cc5127adb628333f63678e165fae"/>
+				<Transform tx="848.33557" ty="-2063.218219" tz="209.549997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: e9af6ab3-8056-4a62-a333-182d3349a561" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group43" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="1a9c479e1bfea41171ae1770a2f97fcb" label="brep_126" layer="Stairs_GF" mobility="Static">
+				<mesh name="716c79baa9f90b352bbc9c4c7a030176"/>
+				<Transform tx="848.33557" ty="-2095.040152" tz="209.549997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: f07409b9-4f09-4761-ae29-cdfcaa592e3a" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group42" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="b336ca7071b89881616876bf14ee492b" label="brep_127" layer="Stairs_GF" mobility="Static">
+				<mesh name="0529f04cc37618e5e5555b060a838b53"/>
+				<Transform tx="848.33557" ty="-2095.040152" tz="209.549997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 5b869d91-c766-436b-ab3f-74c158ff1e6a" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group42" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="f72d0de61881ab81a4a212e44c4de285" label="brep_128" layer="Stairs_GF" mobility="Static">
+				<mesh name="7011fc683b3c7c6a8d71529f2acaaba0"/>
+				<Transform tx="848.33557" ty="-2093.770152" tz="195.579997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 7dd79f12-482e-49c4-b8ea-7d084cc4466a" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group42" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="e4f151fbaeea214767fb3a3795bd23ae" label="brep_129" layer="Stairs_GF" mobility="Static">
+				<mesh name="bf7c5e59a1cac2aa4a7cbf00a303ac19"/>
+				<Transform tx="848.33557" ty="-2093.770152" tz="195.579997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 9038190d-8c17-4dd3-852f-5d916bd93f8e" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group42" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="71598e88eab3fd5974c2399691ab5f46" label="brep_130" layer="Stairs_GF" mobility="Static">
+				<mesh name="eb0238413e3ff5721937c41b806415ee"/>
+				<Transform tx="848.33557" ty="-2125.59224" tz="195.579997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 4f2b9079-03b3-4a6d-b541-aa8edbd0ff18" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group41" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="58774da8221e660250f12cd4a611a457" label="brep_131" layer="Stairs_GF" mobility="Static">
+				<mesh name="8aface80279502036f94f6cd1ad861d1"/>
+				<Transform tx="848.33557" ty="-2125.59224" tz="195.579997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 20705f4a-6981-4a88-97a0-5888cded567c" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group41" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="a442400cb9db39cc31b8990f7fd4b6b5" label="brep_132" layer="Stairs_GF" mobility="Static">
+				<mesh name="b799d272593042b4c1083ed3f9cedaa5"/>
+				<Transform tx="848.33557" ty="-2124.32224" tz="181.609997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 6e9b28f9-228c-4b90-a557-6527663d7c13" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group41" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="0531c31ea33fd69fd4380bc03d6ea2d8" label="brep_133" layer="Stairs_GF" mobility="Static">
+				<mesh name="640db836f62ac562b9f2a4c105f3db5a"/>
+				<Transform tx="848.33557" ty="-2124.32224" tz="181.609997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 44489d2f-437d-41ea-bde7-2e513f60a96b" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group41" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="39a0da73d611e41207aa15ac9bc36a3d" label="brep_134" layer="Stairs_GF" mobility="Static">
+				<mesh name="34c3fcc7d26deeaa76884f7b391b688a"/>
+				<Transform tx="848.33557" ty="-2156.144328" tz="181.609997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 370587f0-9a29-4153-8f9c-e14c5075dd9b" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group40" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="64d2ba0091f89315987e612d5da6070c" label="brep_135" layer="Stairs_GF" mobility="Static">
+				<mesh name="8a7a3695be3910328527693cf71f95cc"/>
+				<Transform tx="848.33557" ty="-2156.144328" tz="181.609997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 5617fc61-ce3e-4e89-8718-2620593c0383" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group40" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="2e1115b3d6c5a481e363e92b1336da3a" label="brep_136" layer="Stairs_GF" mobility="Static">
+				<mesh name="bc219debc8f47bb1983cde3131b750ba"/>
+				<Transform tx="848.33557" ty="-2154.874328" tz="167.639997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 41e9ba72-3967-42e3-b7e6-152ce90ba349" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group40" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="d530b78f6b41a9dd790985d568ab4a44" label="brep_137" layer="Stairs_GF" mobility="Static">
+				<mesh name="7bbfa39e86f22ac402a418f5fb59ede7"/>
+				<Transform tx="848.33557" ty="-2154.874328" tz="167.639997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 140e122f-4623-4b81-b488-b33f3af54a01" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group40" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="9ff7acb670cd1e0c1a9d5393b09f25d3" label="brep_138" layer="Stairs_GF" mobility="Static">
+				<mesh name="d550afc7533e36769a75a66de29f07b9"/>
+				<Transform tx="848.33557" ty="-2186.696416" tz="167.639997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 94b6da72-3ffe-4675-9647-3c2e1a37bd5c" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group39" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="ec6cec2049b6bf47faf0473633468723" label="brep_139" layer="Stairs_GF" mobility="Static">
+				<mesh name="4c216b06080175c8416fdf2036ae1b7f"/>
+				<Transform tx="848.33557" ty="-2186.696416" tz="167.639997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 4f813d90-0e5b-401d-a9b3-786ed54a4855" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group39" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="bbeb466cb4a287ffcfd0831c6497e4d7" label="brep_140" layer="Stairs_GF" mobility="Static">
+				<mesh name="7b174c0283a4d4132cb923f71126004c"/>
+				<Transform tx="848.33557" ty="-2185.426416" tz="153.669998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: fbe52a30-6af0-4481-8408-acba818b1eaf" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group39" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="2508ce3402c2bea438a917dbe602a1bb" label="brep_141" layer="Stairs_GF" mobility="Static">
+				<mesh name="b78b8779fc126b1c6b4a1ddf23bc8f8a"/>
+				<Transform tx="848.33557" ty="-2185.426416" tz="153.669998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 15744c50-8eb8-434a-8d2f-0f20caff21ec" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group39" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="569e6562de575fd3acd9413cc7cc633b" label="brep_142" layer="Stairs_GF" mobility="Static">
+				<mesh name="661aa14b7e1387a49ae1e40948e927b5"/>
+				<Transform tx="848.33557" ty="-2217.248504" tz="153.669998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: fa5c8b26-b9d5-4fa8-9575-dc774554b6a2" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group37" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="c9cef26558f467e0e88fa14912644bb5" label="brep_143" layer="Stairs_GF" mobility="Static">
+				<mesh name="8a0387e4430732f670743105cc0f7644"/>
+				<Transform tx="848.33557" ty="-2217.248504" tz="153.669998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: e12f31fc-384f-4faf-b063-860d68ce82ad" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group37" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="31b3a03b41a6ed54b0ed0f3e015c04fe" label="brep_144" layer="Stairs_GF" mobility="Static">
+				<mesh name="db99e2964fe44579847e82f44a6f3b97"/>
+				<Transform tx="848.33557" ty="-2215.978504" tz="139.699998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 66a4a6d2-8e8e-4664-89a2-1dbcd823deb5" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group37" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="89c6cb23ba99a91d8026bc8a4a6a0f62" label="brep_145" layer="Stairs_GF" mobility="Static">
+				<mesh name="ddf82e12009169d10ad1d2205775517c"/>
+				<Transform tx="848.33557" ty="-2215.978504" tz="139.699998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 4f0bffea-46ee-43d2-b485-ed2bb59334d7" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group37" />
+				<tag value="Rhino.GroupName: Group38" />
+			</ActorMesh>
+			<ActorMesh name="12c7c0643f10fe29884b1996f512f17d" label="brep_146" layer="Stairs_GF" mobility="Static">
+				<mesh name="b7148ee8963842e48b8412813515460e"/>
+				<Transform tx="779.755571" ty="-2294.718503" tz="139.699998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 74175543-4de3-4896-b693-8a9ad660939a" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="a6a4ac65cfbf0f3fdc293422a0943d68" label="brep_147" layer="Stairs_GF" mobility="Static">
+				<mesh name="539ca88dd7b2917b901e080878654888"/>
+				<Transform tx="779.755571" ty="-2294.718503" tz="139.699998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 5fcaf772-a3a8-40f4-bbc2-1f71cd7f409a" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<ActorMesh name="18c41b6284c1dcd5cbc633bc59937df4" label="brep_148" layer="Stairs_GF" mobility="Static">
+				<mesh name="aadbf78d40759c8e4d63130a3735b0fb"/>
+				<Transform tx="711.175572" ty="-2080.998218" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 1ad9bcef-0a3c-45cd-961e-b682560be024" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="e5b72efc46fd9f36932f11d63e3007ea" label="brep_149" layer="Stairs_GF" mobility="Static">
+				<mesh name="1f25a1472264889f424e5b5439a0b3a6"/>
+				<Transform tx="650.215534" ty="-2080.998218" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 72f1f8bd-e276-478a-8c36-01a7f45e7864" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="13dabbfb9f13331ad7c3c74635e30e3b" label="brep_150" layer="Stairs_GF" mobility="Static">
+				<mesh name="2ee81f6857b43cbebf4a8817db8ff165"/>
+				<Transform tx="711.175572" ty="-2217.248504" tz="153.669998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 6501cd1d-87ba-4de6-aec7-a50a2ac17681" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group23" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="7e5a3a2cfa3c4496be74305158731da9" label="brep_151" layer="Stairs_GF" mobility="Static">
+				<mesh name="7f999501607cdccb6737aeffa8761b52"/>
+				<Transform tx="711.175572" ty="-2217.248504" tz="153.669998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b024d148-344b-463e-8cfb-d012ba072060" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group23" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="b4e02d8d210f098a82dec0ec84b95b7a" label="brep_152" layer="Stairs_GF" mobility="Static">
+				<mesh name="ebfb0ef6f373284ee7eea7344f2e27d1"/>
+				<Transform tx="711.175572" ty="-2218.518504" tz="139.699998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: df02311f-ee45-4c5f-90bc-6e9600688725" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group23" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="653759deb6836e2cb2a0e222632495ca" label="brep_153" layer="Stairs_GF" mobility="Static">
+				<mesh name="a6fe12c70007ad6011e9bf48e9089b05"/>
+				<Transform tx="711.175572" ty="-2218.518504" tz="139.699998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: bf177c28-8c7f-4942-8a92-e798bd35f8e3" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group23" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="bf56e9b9b1627bb0c8220d80608c4569" label="brep_154" layer="Stairs_GF" mobility="Static">
+				<mesh name="0e320d1afab4f5f5e23736c5d4ef621a"/>
+				<Transform tx="711.175572" ty="-2186.696416" tz="139.699998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 22d07b94-ac62-4e29-86b4-7153eb6ba80f" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group22" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="e3f7d4e612691111182bf9e1e7db1162" label="brep_155" layer="Stairs_GF" mobility="Static">
+				<mesh name="ac886757ce7f12e9903ff31f376c3c6d"/>
+				<Transform tx="711.175572" ty="-2186.696416" tz="139.699998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: e9ca13ba-8898-4a2b-8145-e9e07793eb28" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group22" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="07667074f7ba6c02af8879ecc7d18519" label="brep_156" layer="Stairs_GF" mobility="Static">
+				<mesh name="725ee666404f9e9e56ae8ac1a4257ab6"/>
+				<Transform tx="711.175572" ty="-2187.966416" tz="125.729998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 93679d25-62c4-44f8-ba28-bab72d247a77" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group22" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="b3c025575458d0e0ea4927f70fdd72bd" label="brep_157" layer="Stairs_GF" mobility="Static">
+				<mesh name="2974cf8571a3f2ff967d38f41ef970a4"/>
+				<Transform tx="711.175572" ty="-2187.966416" tz="125.729998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 7fb85453-59d5-405e-8336-8dcd7d9924bf" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group22" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="285739a08006f7b671e6bb3403b9503d" label="brep_158" layer="Stairs_GF" mobility="Static">
+				<mesh name="acb08d619b9bb7b794cf3f37a44f32bb"/>
+				<Transform tx="711.175572" ty="-2156.144328" tz="125.729998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 97d73de4-92e5-4281-b996-b2f01d4fcd71" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group21" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="7adc1d532ca93ff0a9a49766503d4aeb" label="brep_159" layer="Stairs_GF" mobility="Static">
+				<mesh name="606497b0f8436ec963eac8763296c0bc"/>
+				<Transform tx="711.175572" ty="-2156.144328" tz="125.729998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 74e8567d-5a8b-48f1-b2a2-dbab2e56d30b" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group21" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="1c7c94182a215aef950f6927b916ce21" label="brep_160" layer="Stairs_GF" mobility="Static">
+				<mesh name="1e8d3f8d8dfb8d46aefd0f6bc90e971d"/>
+				<Transform tx="711.175572" ty="-2157.414328" tz="111.759998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 39e827c8-4dfb-4c62-852f-01eba9caab30" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group21" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="f7ec5c01166de0164ac1e478ca04fabc" label="brep_161" layer="Stairs_GF" mobility="Static">
+				<mesh name="ec7436485d32a137f8a030bebc382e66"/>
+				<Transform tx="711.175572" ty="-2157.414328" tz="111.759998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 3d458377-8034-474e-9d40-dd7f70634919" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group21" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="d73cfa92e42da249fbb321be46725d8d" label="brep_162" layer="Stairs_GF" mobility="Static">
+				<mesh name="7f01cf650a707c8ccd379158dd1c4278"/>
+				<Transform tx="711.175572" ty="-2125.59224" tz="111.759998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 9a120cd6-d4b1-4145-a991-f471c0852862" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group20" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="d68f811de8dcd80ce82280cb1c196990" label="brep_163" layer="Stairs_GF" mobility="Static">
+				<mesh name="b5b339981d52be9aa5d7a9a0569c745d"/>
+				<Transform tx="711.175572" ty="-2125.59224" tz="111.759998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 81d647ac-a276-47d9-aa32-0377a26e237c" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group20" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="915a665b37b1df3d2e878b404d898cad" label="brep_164" layer="Stairs_GF" mobility="Static">
+				<mesh name="18a8751f2edbe7f730f988f303a56f36"/>
+				<Transform tx="711.175572" ty="-2126.86224" tz="97.789999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b24bc30f-04a2-4e42-b063-a2d956fcbf0b" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group20" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="fce8867f1a08838ba147bf8a3444a353" label="brep_165" layer="Stairs_GF" mobility="Static">
+				<mesh name="7d4596203bf67eec445e6f763485f16e"/>
+				<Transform tx="711.175572" ty="-2126.86224" tz="97.789999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 96c601b1-6aa7-44d1-a9c0-8ec8e837bb5b" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group20" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="1c9ee4dee9716cc4f8db593c8568f848" label="brep_166" layer="Stairs_GF" mobility="Static">
+				<mesh name="8f9d5cf6f319e1aa1d1d82059916e656"/>
+				<Transform tx="711.175572" ty="-2095.040152" tz="97.789999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 5b3d7de3-6c47-405b-bdda-b55d8c08691c" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group19" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="55321f5a21a4bdd9f9812aa942294ead" label="brep_167" layer="Stairs_GF" mobility="Static">
+				<mesh name="30479a29f5418a0809944d4927359418"/>
+				<Transform tx="711.175572" ty="-2095.040152" tz="97.789999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 9e8f95c2-3edf-48ba-90a4-e65b63d7d3af" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group19" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="ddab4ac05e8a82757128673a9dc2c878" label="brep_168" layer="Stairs_GF" mobility="Static">
+				<mesh name="7d4065e6851ccec9fef0830ad51121b8"/>
+				<Transform tx="711.175572" ty="-2096.310152" tz="83.819999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 63a61e7e-9f5b-48df-b2c3-4b12ac7cad0a" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group19" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="2f4d13ab667744019e853af6f4d4234d" label="brep_169" layer="Stairs_GF" mobility="Static">
+				<mesh name="1a1d8d6bf05707d39d94b2cac1f09be1"/>
+				<Transform tx="711.175572" ty="-2096.310152" tz="83.819999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 13f0f57d-a93b-4f38-afaf-ca14206a8728" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group19" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="9c2d91b23b58d9fe0d1c2e151f2ad48b" label="brep_170" layer="Stairs_GF" mobility="Static">
+				<mesh name="6c316d3ca66cf15a0d355a02b1df192f"/>
+				<Transform tx="711.175572" ty="-2064.488219" tz="83.819999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: da47cec9-dc69-4a5f-aad5-d5b9b8e33c4e" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group18" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="7534bed43d5fe7e2544ea8aae0eef037" label="brep_171" layer="Stairs_GF" mobility="Static">
+				<mesh name="a65d5f3ac85c8e07f1b5902c3e8e00d3"/>
+				<Transform tx="711.175572" ty="-2064.488219" tz="83.819999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 2491ab49-674c-4c9a-a0c7-7172557c888a" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group18" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="cc7c8379209441da9b7315172b6fdedc" label="brep_172" layer="Stairs_GF" mobility="Static">
+				<mesh name="3013ae40404992073c95ca27ef3b7b74"/>
+				<Transform tx="711.175572" ty="-2065.758218" tz="69.849999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 3d08a5fd-d0c2-499c-8124-213e0757b8f7" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group18" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="39f8b4e84fb1fcaef33b72ef9793f161" label="brep_173" layer="Stairs_GF" mobility="Static">
+				<mesh name="0e48fd365748420bf6f8641591edc4fa"/>
+				<Transform tx="711.175572" ty="-2065.758218" tz="69.849999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 157dfb41-6554-4a63-a8ef-b85a3f6fe6a7" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group18" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="305b33897419b2d60383e2f72164020d" label="brep_174" layer="Stairs_GF" mobility="Static">
+				<mesh name="31b97db9ca7e5fb91d36d8e7f21c35f4"/>
+				<Transform tx="711.175572" ty="-2033.93613" tz="69.849999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 4077daa6-d8ec-47d2-b216-93ca8cbf00a9" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group17" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="a2b53f0488bf402f9eed2d13b232a000" label="brep_175" layer="Stairs_GF" mobility="Static">
+				<mesh name="8e3485c2e80fd25831723411758a421a"/>
+				<Transform tx="711.175572" ty="-2033.93613" tz="69.849999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b5e50ff4-a97b-424f-a03c-349a1d394f4c" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group17" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="0725fc190b79ac59c31ab436743bfc6d" label="brep_176" layer="Stairs_GF" mobility="Static">
+				<mesh name="924b6b37fa70ebec425c8287dc56c978"/>
+				<Transform tx="711.175572" ty="-2035.20613" tz="55.879999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: cd0d9de3-31ec-48b9-a4b6-b2a8dd492356" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group17" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="6a6e95af9aef1eb47d4929bffb79f0d8" label="brep_177" layer="Stairs_GF" mobility="Static">
+				<mesh name="e897dddad321c0f0b6166fa7140bc5f5"/>
+				<Transform tx="711.175572" ty="-2035.20613" tz="55.879999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: d36a347b-2bad-4e37-913b-0fc72b846860" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group17" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="4ea2508afef5363164280e21e53e2904" label="brep_178" layer="Stairs_GF" mobility="Static">
+				<mesh name="739f912f7a678389ef33e229c9d1898d"/>
+				<Transform tx="711.175572" ty="-2003.384042" tz="55.879999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: fbdec9d1-f3a5-4cb1-b7bb-df023d7cd7d1" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group16" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="222e71464f887c3915dd312b9e347eec" label="brep_179" layer="Stairs_GF" mobility="Static">
+				<mesh name="8217a0810f0f0f88a32942aa3f9909ac"/>
+				<Transform tx="711.175572" ty="-2003.384042" tz="55.879999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: db2fd61e-cb1c-4497-aa66-792d98c91151" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group16" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="1cd688282577c47d4d7e0cd1fc783a93" label="brep_180" layer="Stairs_GF" mobility="Static">
+				<mesh name="f10087e25b045bb2325cb38bdad7417a"/>
+				<Transform tx="711.175572" ty="-2004.654042" tz="41.909999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 19401623-f8e5-472a-becc-d46be7817a7c" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group16" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="920ce7acea13113fa20aa74435e8c178" label="brep_181" layer="Stairs_GF" mobility="Static">
+				<mesh name="c7c23d43857a2a3700143837440d0e1d"/>
+				<Transform tx="711.175572" ty="-2004.654042" tz="41.909999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 94d318f4-45e8-49e2-b13c-90922cee0a31" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group16" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="5f25211d459e3c2fedab6c10ae3e6e66" label="brep_182" layer="Stairs_GF" mobility="Static">
+				<mesh name="e9015d7f6da845155c0773d423d615a4"/>
+				<Transform tx="711.175572" ty="-1972.831954" tz="41.909999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: e726d29f-c159-4343-b901-3f1dfa7d1c57" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group15" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="ec2ad15b8cb98f30fcabd0f204bd6b73" label="brep_183" layer="Stairs_GF" mobility="Static">
+				<mesh name="bccfec07a0fb3b1b66019f3e13407b40"/>
+				<Transform tx="711.175572" ty="-1972.831954" tz="41.909999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 4d3c7923-3932-4daf-9d5f-cd597c98409f" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group15" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="9ce6e0d07f387887aa39de6acb5c9321" label="brep_184" layer="Stairs_GF" mobility="Static">
+				<mesh name="9a2e728601c3a11c7634de3158e5e1fc"/>
+				<Transform tx="711.175572" ty="-1974.101954" tz="27.94" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: aa6f1c44-e805-4c0d-865d-89dba0e73fb3" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group15" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="8eebcdcce38fd2fa22f0d1379d4ce92f" label="brep_185" layer="Stairs_GF" mobility="Static">
+				<mesh name="0d2dbca3db3f4d054d2fb9a2b7f4b69e"/>
+				<Transform tx="711.175572" ty="-1974.101954" tz="27.94" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 08ceb117-8c7a-468f-ba60-426cb34429cb" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group15" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="c94eea66918d3765331b532462abedcf" label="brep_186" layer="Stairs_GF" mobility="Static">
+				<mesh name="40c4df20c131055ca079b584ff799bba"/>
+				<Transform tx="711.175572" ty="-1942.279866" tz="27.94" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b8c538a2-a21a-4c93-96ad-fdea70c40df1" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group14" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="4aea1e132ad5260e81132e27c9db9b66" label="brep_187" layer="Stairs_GF" mobility="Static">
+				<mesh name="d25273977a49318a02ae2ee717bced3d"/>
+				<Transform tx="711.175572" ty="-1942.279866" tz="27.94" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 5c5f84ec-4cbd-4d08-857b-eea52dbeecbd" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group14" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="cd98ee10c8b1414efba65d6c252cbd72" label="brep_188" layer="Stairs_GF" mobility="Static">
+				<mesh name="047dfd87ed348c209706b7758466a2b2"/>
+				<Transform tx="711.175572" ty="-1943.549866" tz="13.97" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: c5312e49-cea4-4060-b3a5-d389ab421ccf" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group14" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="c7decdabf4e88e581fcf3cf089999371" label="brep_189" layer="Stairs_GF" mobility="Static">
+				<mesh name="c849c78d614437a2dfbf67832778f7f4"/>
+				<Transform tx="711.175572" ty="-1943.549866" tz="13.97" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 98e41b62-292b-4c90-a4e2-f64848565867" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group14" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="9c6cd34136ab41a3cd9bfa30c2adde3a" label="brep_190" layer="Stairs_GF" mobility="Static">
+				<mesh name="9b0ad15b8591e1ffe0609f7d73e08d97"/>
+				<Transform tx="711.175572" ty="-1911.727778" tz="13.97" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 896b4e77-4ab8-442d-a9a6-d39e5c7f4ea1" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group13" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="11f14f7fda88e7c90d65cacab3e2782a" label="brep_191" layer="Stairs_GF" mobility="Static">
+				<mesh name="591c1ad8b1913825f38edeab0e120fba"/>
+				<Transform tx="711.175572" ty="-1911.727778" tz="13.97" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: ff67ffaa-f2b4-414c-9d9f-ac2480a8e90c" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group13" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="e372126bc7c005414461f14c5150431e" label="brep_192" layer="Stairs_GF" mobility="Static">
+				<mesh name="dfb117cd55d0b3a17e88062682195de1"/>
+				<Transform tx="711.175572" ty="-1912.997778" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 1570bc70-e290-40b6-b3f6-d6b0670f5311" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group13" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+			<ActorMesh name="1913678c371bccd1e879ca5e446ff507" label="brep_193" layer="Stairs_GF" mobility="Static">
+				<mesh name="7ec7702401c72a4d34edae389a89c80c"/>
+				<Transform tx="711.175572" ty="-1912.997778" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: e4b8ac50-df79-436b-af28-cb09fedda9d4" />
+				<tag value="Rhino.Entity.Type: brep" />
+				<tag value="Rhino.GroupName: Group13" />
+				<tag value="Rhino.GroupName: Group24" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Camera name="180e2946fc2a6d78dd03830ff01afbd0" label="Current_Perspective" mobility="Movable">
+		<Transform tx="-1968.426332" ty="3660.998497" tz="2087.796563" sx="1.0" sy="1.0" sz="1.0" qx="0.087254" qy="0.151128" qz="-0.492328" qw="0.852737" qhex64="AAFEA53D4356B63FB99B1D1F2958C33FE12EBFF14C82DFBFAE9E2C0D9F49EB3F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.175258"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="2540.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="42.1875"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: c44270f9-f702-4de2-887d-8c2fad8bf5be" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<Camera name="ca9fe609a7242c1b3c567f8d93267a82" label="Current_Top" mobility="Movable">
+		<Transform tx="849.121801" ty="-1375.345642" tz="2708.736637" sx="1.0" sy="1.0" sz="1.0" qx="0.5" qy="0.5" qz="-0.5" qw="0.5" qhex64="000000000000E03F000000000000E03F000000000000E0BF000000000000E03F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.655617"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="2540.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="26.454891"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: d1f7eee1-dedb-403c-8460-d77604e8e086" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<Camera name="4b986d7f4c2f74b5b4f7ba32d0aa3bea" label="Current_Right" mobility="Movable">
+		<Transform tx="2816.537807" ty="-1432.577032" tz="270.974502" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="1.0" qw="0.0" qhex64="00000000000000000000000000000000000000000000F03F0000000000000000"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="4.142857"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="2540.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="26.463266"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: 16926896-dffc-4a86-acf1-64661a232111" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<Camera name="4848354a3314897ce4920c87276a392a" label="Current_Front" mobility="Movable">
+		<Transform tx="564.088545" ty="26928.154381" tz="296.371983" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000000000000000000000CC3B7F669EA0E6BFCD3B7F669EA0E63F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="2.072727"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="2540.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="468.752075"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: 928fb961-b613-4e6b-9d24-d77f5fa0bb2e" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<UEPbrMaterial name="eec34d804c9ce6c89cff596be555e6a4" label="material">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.955973,G=0.955973,B=0.955973,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
