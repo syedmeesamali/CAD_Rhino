@@ -1,3 +1,9 @@
 import rhinoscriptsyntax as rs
-x = rs.GetInteger('Input integer', 5)
-print(x+5)
+#Code comments with hash
+
+x = rs.GetInteger('Input integer')
+if (x % 2 == 0):
+    print("Your number is even")
+else:
+    print("Odd number")
+print(x * 2)
